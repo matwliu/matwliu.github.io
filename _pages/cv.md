@@ -9,32 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+&nbsp; # 空行
+
+
+EDUCATION
 ======
-* Ph.D., Computational Mathematics, Hunan Normal University, 2014/09–2020/06
-  Advisor: Prof. Ziqing Xie
-* B.Sc., Information and Computational Science, Hunan Normal University, 2010/09– 2014/06
+* Ph.D., Computational Mathematics, Hunan Normal University, 2020 (Advisor: Prof. Ziqing Xie)
+* B.Sc., Information and Computational Science, Hunan Normal University, 2014
 
-
-\LaTeX~test
-
-$$
-K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
-$$
-
-
-Work experience
+EMPLOYMENT
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS),
+South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
+* **Visiting Positions** ( $\geq$ one month):
+  - National University of Singapore (2022/02–present, 2019/11–2019/12); 
+  - Wuhan University (2021/09– 2021/10); 
+  - Sichuan University (2020/07–2020/09); 
+  - Beijing Computational Science Research Center (2019/08–2019/09, 2018/08–2018/09)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+RESEARCH AREA
+======
+Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs Numerical methods for PDEs, Multiple solutions of nonlinear PDEs
+
+
+
+<!--   
 Skills
 ======
 * Skill 1
@@ -65,3 +65,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
+
+
