@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Computational Mathematics, Hunan Normal University, 2014/09–2020/06
+  Advisor: Prof. Ziqing Xie
+* B.Sc., Information and Computational Science, Hunan Normal University, 2010/09– 2014/06
 
-LaTeX test
+
+\LaTeX~test
+
 $$
 K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
 $$
