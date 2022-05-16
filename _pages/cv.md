@@ -15,8 +15,8 @@ redirect_from:
 
 EDUCATION
 ======
-* Ph.D., Computational Mathematics, Hunan Normal University, 2020 (Advisor: Prof. Ziqing Xie)
-* B.Sc., Information and Computational Science, Hunan Normal University, 2014
+* **Ph.D.**, Computational Mathematics, Hunan Normal University, 2020 (Advisor: Prof. Ziqing Xie)
+* **B.Sc.**, Information and Computational Science, Hunan Normal University, 2014
 
 EMPLOYMENT
 ======
