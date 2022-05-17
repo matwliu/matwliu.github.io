@@ -46,6 +46,15 @@ Grants
 * **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, 2022/01--2024/12 
 
 
+Awards
+======
+* Excellent Doctoral Dissertation Award of Hunan Normal University, 2021
+* International Postdoctoral Exchange Fellowship Program, 2021
+* First Class Academic Scholarship for PhD Students of Hunan Normal University, 2016
+* National Scholarship for Graduate Students, 2015
+* Excellent Bachelor Degree Thesis of Hunan Normal University, 2014
+* First Prize in National College Student Mathematics Contest (Hunan Division), 2013
+* Second Prize in China Undergraduate Mathematical Contest in Modeling, 2012
 
 
 <!--   
