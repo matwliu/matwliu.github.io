@@ -5,12 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+* See also:
+  - [ORCID (0000-0002-2926-2667)](https://orcid.org/0000-0002-2926-2667)
+  - [Google Scholar Profile](https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en)
+  - [MathSciNet (Author ID: 1423454)](https://mathscinet.ams.org/mathscinet/MRAuthorID/1423454)
