@@ -8,21 +8,16 @@ author_profile: true
 Conferences to be Attended
 ======
 * Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the 13th Annual Meeting of the Chinese Computational Mathematics, Nanjing, China, TBA
-<!-- Title: Normalized gradient flow methods for computing ground states of spin-F Bose-Einstein condensates. -->
 
 
 
-
-Academic Presentations
+Recent Invited Talks
 ======
-<!-- Invited Talks, Lectures and Seminars -->
 
-Invited Conference Talks
-------
 * Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021.
 <!-- Title: Spectral-Galerkin-type search extension method for finding multiple solutions of semilinear PDEs. -->
 
-* Workshop on ``Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021.
+* Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021.
 <!-- Title: A note on normalized gradient flow for computing ground states of Bose-Einstein condensates. -->
 
 * Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22), at the 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020. 
@@ -34,21 +29,13 @@ Invited Conference Talks
 * Mini-Symposium on "Multiple Solutions, Phase Transitions and Rare Events" (S09), at the 12th Annual Meeting of the Chinese Computational Mathematics, Harbin, China, July 31 -- August 4, 2019.
 <!-- Title: Finding multiple saddle points on Hilbert manifolds by a constrained local minimax method. -->
 
-* Workshop on ``Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018.
+* Workshop on "Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018.
 <!-- Title: A spectral-Galerkin-type search extension method for finding multiple solutions of semilinear elliptic PDEs. -->
 
-
-
-Invited Seminar Talks
-------
-* LCSM & School of Mathematics and Statistics, Hunan Normal University, August 25, 2021. 
-<!-- Title: Notes on normalized gradient flow for computing ground states of Bose-Einstein condensates. -->
- 
-* (**Online talk**) Center for Applied Mathematics, Tianjin University, November 10, 2020. 
-<!-- Title: Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates. -->
-
-* School of Mathematics and Computational Science, Xiangtan University, September 23, 2018.
-<!-- Title: Finding excited states of Bose-Einstein condensates by a constrained gentlest ascent dynamics. -->
+* **Invited Seminar Talks**
+  - Seminar Talk, Mathematical Research Center & School of Mathematics and Statistics, Hunan Normal University, August 25, 2021
+  - Online Seminar Talk, Center for Applied Mathematics, Tianjin University, November 10, 2020
+  - Seminar Talk, School of Mathematics and Computational Science, Xiangtan University, September 23, 2018
 
 
 
@@ -60,7 +47,7 @@ Conferences Attended
 ------
 * The 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
 
-* Workshop on ``Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
+* Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
 
 * The 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020
 
