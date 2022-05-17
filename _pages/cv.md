@@ -19,14 +19,14 @@ Email: wliu@m.scnu.edu.cn
 
 Education
 ======
-* **Ph.D.**, Computational Mathematics, Hunan Normal University, 2020 (Advisor: Prof. Ziqing Xie)
-* **B.Sc.**, Information and Computational Science, Hunan Normal University, 2014
+* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020 (**Advisor**: Prof. [Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm))
+* **B.Sc.**, Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
 
 
 Work experience
 ======
-* **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council)
-* **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS), South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
+* **Visiting Scholar**, Department of Mathematics, [National University of Singapore](http://www.nus.edu.sg/), 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
+* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
 
 
 Research Area
