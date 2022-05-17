@@ -60,22 +60,22 @@ Peer Reviewed Papers
 
 4. Yongyong Cai and **Wei Liu***,
   Efficient and accurate gradient flow methods for computing ground states of spinor Bose-Einstein condensates, 
-  _**J. Comput. Phys.**_, 2021, Vol. 433, article 110183, 
+  _**J. Comput. Phys.**_, 2021, Vol. **433**, article 110183, 
   doi: [10.1016/j.jcp.2021.110183](https://doi.org/10.1016/j.jcp.2021.110183)
 
 3. **Wei Liu** and Yongyong Cai*, 
   Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates, 
-  _**SIAM J. Sci. Comput.**_, 2021, Vol. 43, No. 1, pp. B219--B242, 
+  _**SIAM J. Sci. Comput.**_, 2021, Vol. **43**, No. 1, pp. B219--B242, 
   doi: [10.1137/20M1328002](https://doi.org/10.1137/20M1328002)
 
 2. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   Normalized Goldstein-type local minimax method for finding multiple unstable solutions of semilinear elliptic PDEs, 
-  _**Commun. Math. Sci.**_, 2021, Vol. 19, No. 1, pp. 147--174, 
+  _**Commun. Math. Sci.**_, 2021, Vol. **19**, No. 1, pp. 147--174, 
   doi: [10.4310/CMS.2021.v19.n1.a6](https://doi.org/10.4310/CMS.2021.v19.n1.a6)
 
 1. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, 
   Convergence analysis of a spectral-Galerkin-type search extension method for finding multiple solutions to semilinear problems (in Chinese),
-  _**Sci. Sin. Math.**_, 2021, Vol. 51, No. 9, pp. 1407--1431, 
+  _**Sci. Sin. Math.**_, 2021, Vol. **51**, No. 9, pp. 1407--1431, 
   doi: [10.1360/SCM-2019-0357](https://doi.org/10.1360/SCM-2019-0357)
 {: reversed="reversed"}
 
