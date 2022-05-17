@@ -1,6 +1,6 @@
 ---
 layout: archive
-<!-- title: "Brief CV" -->
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,7 +21,7 @@ Work experience
 ======
 * **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS),
 South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
-* **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–present
+  - **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–2023/01 (supported by the International Postdoctoral Exchange Fellowship Program from the Office of China Postdoc Council).
 
 Research Area
 ======
