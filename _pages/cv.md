@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Brief CV"
+title: "About"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,30 @@ redirect_from:
 
 <!-- &nbsp; -->
 
+<!-- Brief CV -->
+
+
+Liu, Wei (刘伟)
+=====
+PhD, Postdoc, Computational Mathematics <br>
+Email: wliu@m.scnu.edu.cn
+
 
 Education
 ======
 * **Ph.D.**, Computational Mathematics, Hunan Normal University, 2020 (Advisor: Prof. Ziqing Xie)
 * **B.Sc.**, Information and Computational Science, Hunan Normal University, 2014
 
+
 Work experience
 ======
-* **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS),
-South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
-* **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–2023/01 (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council).
+* **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council)
+* **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS), South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
+
 
 Research Area
 ======
-Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs Numerical methods for PDEs, Multiple solutions of nonlinear PDEs
+Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs
 
 
 
