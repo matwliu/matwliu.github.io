@@ -6,13 +6,13 @@ author_profile: true
 
 
 Conferences to be Attended
-======
+------
 * Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the 13th Annual Meeting of the Chinese Computational Mathematics, Nanjing, China, TBA
 
 
 
-Recent Invited Talks
-======
+Invited Talks
+------
 * **2020--present**:
   - Seminar Talk, Mathematical Research Center & School of Mathematics and Statistics, Hunan Normal University, August 25, 2021
   - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021.
@@ -29,8 +29,7 @@ Recent Invited Talks
 
 
 Conferences Attended
-======
-
+------
 * **2021**:
   - The 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
   - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
@@ -69,16 +68,17 @@ Conferences Attended
   - The 8th International Congress on Industrial and Applied Mathematics (ICIAM2015), Beijing, China, August 10 -- 14, 2015
 
 
-* **Summer School Participation**:
-  - Tutorial on Modeling and Simulation for Quantum Condensation, Fluids and Information, in A Thematic Program on "Quantum and Kinetic Problems: Modeling, Analysis, Numerics and Applications" (September 30, 2019--March 31, 2020), Institute for Mathematical Sciences, National University of Singapore, Singapore, November 13 -- 15 & 25 -- 26, 2019
-  - 2019 PKU Summer School on Applied Mathematics, Peking University, Beijing, China, July 8 -- 27, 2019
-  - 2017 Summer School on Numerical Methods for PDEs, South China Normal University, Guangzhou, China, July 30 -- August 16, 2017
-  - 2016 PKU Summer Activities on Numerical Methods for PDEs, Peking University, Beijing, China, July 18 -- 23, 2016
-  - 2016 Spring School on Spectral Methods, Beijing Computational Science Research Center, Beijing, China, April 11 -- 15, 2016
-  - 2015 PKU Summer Activities on Numerical Methods for PDEs, Peking University, Beijing, China, August 15 -- 21, 2015
-  - Mini Course on PDEs in Biology and Computation, Xiangtan University, Xiangtan, China, July 6 -- 10, 2015
-  - 2014 Winter School on Multiscale Model Reduction, Hunan University, Changsha, China, December 8 -- 12, 2014
-  - Summer School on Computational Fluid-Solid Coupling Dynamics, Peking University & Beijing University of Technology, Beijing, China, July 12 -- 19, 2014
+Summer School Participation
+------
+* Tutorial on Modeling and Simulation for Quantum Condensation, Fluids and Information, in A Thematic Program on "Quantum and Kinetic Problems: Modeling, Analysis, Numerics and Applications" (September 30, 2019--March 31, 2020), Institute for Mathematical Sciences, National University of Singapore, Singapore, November 13 -- 15 & 25 -- 26, 2019
+* 2019 PKU Summer School on Applied Mathematics, Peking University, Beijing, China, July 8 -- 27, 2019
+* 2017 Summer School on Numerical Methods for PDEs, South China Normal University, Guangzhou, China, July 30 -- August 16, 2017
+* 2016 PKU Summer Activities on Numerical Methods for PDEs, Peking University, Beijing, China, July 18 -- 23, 2016
+* 2016 Spring School on Spectral Methods, Beijing Computational Science Research Center, Beijing, China, April 11 -- 15, 2016
+* 2015 PKU Summer Activities on Numerical Methods for PDEs, Peking University, Beijing, China, August 15 -- 21, 2015
+* Mini Course on PDEs in Biology and Computation, Xiangtan University, Xiangtan, China, July 6 -- 10, 2015
+* 2014 Winter School on Multiscale Model Reduction, Hunan University, Changsha, China, December 8 -- 12, 2014
+* Summer School on Computational Fluid-Solid Coupling Dynamics, Peking University & Beijing University of Technology, Beijing, China, July 12 -- 19, 2014
 
 
 
