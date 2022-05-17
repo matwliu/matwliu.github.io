@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wei Liu" <!-- "About me" -->
+title: "Wei Liu"
 permalink: /cv/
 author_profile: true
 redirect_from:
