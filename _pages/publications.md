@@ -77,7 +77,6 @@ Peer Reviewed Papers
   Convergence analysis of a spectral-Galerkin-type search extension method for finding multiple solutions to semilinear problems (in Chinese),
   _**Sci. Sin. Math.**_, 2021, Vol. 51, No. 9, pp. 1407--1431, 
   doi: [10.1360/SCM-2019-0357](https://doi.org/10.1360/SCM-2019-0357)
-
 {: reversed="reversed"}
 
 
