@@ -50,7 +50,7 @@ Grants
  -->
 
 
-Awards & Honors
+Awards
 ======
 * International Postdoctoral Exchange Fellowship Program, 2021
 * National Scholarship for Graduate Students, 2015
