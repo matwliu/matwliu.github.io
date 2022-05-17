@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wei Liu"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,19 +19,32 @@ Email: wliu@m.scnu.edu.cn
 
 Education
 ======
-* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020 (**Advisor**: Prof. [Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm))
+* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020
+  <!-- (**Advisor**: Prof. [Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm)) -->
 * **B.Sc.**, Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
 
 
 Work experience
 ======
 * **Visiting Scholar**, [Department of Mathematics](https://www.math.nus.edu.sg), National University of Singapore, 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
-* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present (Mentor: Prof. [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
+* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present 
+  <!-- (Mentor: Prof. [Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
 
 
 Research Area
 ======
-Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs
+<!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
+* Computational and Applied Mathematics, Computational Quantum Physics
+* Numerical PDEs, Applied Analysis, Scientific Computing
+* Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems
+* Bose-Einstein Condensation, Nonlinear Dispersive PDEs 
+
+
+Grants
+======
+* **Principal Investigator**. National Natural Science Foundation of China (NSFC), No.~12101252, 2022/01--2024/12
+* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No.~2022A1515010351, 2022/01--2024/12 
+
 
 
 
