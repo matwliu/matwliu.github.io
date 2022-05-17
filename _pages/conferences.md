@@ -7,7 +7,7 @@ author_profile: true
 
 Conferences to be Attended
 ------
-* Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the 13th Annual Meeting of the Chinese Computational Mathematics, Nanjing, China, TBA
+* Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics](http://cscm2021.com), Nanjing, China, TBA
 
 
 
