@@ -17,6 +17,6 @@ author_profile: true
 
 
 * See also:
-  - [ORCID (0000-0002-2926-2667)](https://orcid.org/0000-0002-2926-2667)
   - [Google Scholar Profile](https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en)
+  - [ORCID (0000-0002-2926-2667)](https://orcid.org/0000-0002-2926-2667)
   - [MathSciNet (Author ID: 1423454)](https://mathscinet.ams.org/mathscinet/MRAuthorID/1423454)
