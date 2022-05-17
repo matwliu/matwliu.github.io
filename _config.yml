@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Liu (刘伟)" # "Your Name / Site Title"
+title                    : "Wei Liu's homepage" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Wei Liu"
 description              : &description "personal description"
