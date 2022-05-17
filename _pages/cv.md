@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- Brief CV -->
 
-PhD, Postdoc, Computational Mathematics <br>
+Postdoc, CAMIS, South China Normal University <br>
 Email: wliu@m.scnu.edu.cn
 
 
