@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Brief CV"
+<!-- title: "Brief CV" -->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,26 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- &nbsp; -->
 
-&nbsp; <!-- 空行 -->
 
-
-EDUCATION
+Education
 ======
 * **Ph.D.**, Computational Mathematics, Hunan Normal University, 2020 (Advisor: Prof. Ziqing Xie)
 * **B.Sc.**, Information and Computational Science, Hunan Normal University, 2014
 
-EMPLOYMENT
+Work experience
 ======
 * **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS),
 South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
-* **Visiting Positions** ( $\geq$ one month):
-  - National University of Singapore (2022/02–present, 2019/11–2019/12); 
-  - Wuhan University (2021/09– 2021/10); 
-  - Sichuan University (2020/07–2020/09); 
-  - Beijing Computational Science Research Center (2019/08–2019/09, 2018/08–2018/09)
+* **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–present
 
-RESEARCH AREA
+Research Area
 ======
 Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs Numerical methods for PDEs, Multiple solutions of nonlinear PDEs
 
