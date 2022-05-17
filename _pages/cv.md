@@ -26,8 +26,8 @@ Education
 
 Work experience
 ======
-* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
-* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present (**Mentor**: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
+* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --– present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
+* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, October 2020 --- present (**Mentor**: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 
 
 Research Area
@@ -42,8 +42,8 @@ Research Area
 
 Grants
 ======
-* **Principal Investigator**. National Natural Science Foundation of China (NSFC), No. 12101252, 2022/01--2024/12
-* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, 2022/01--2024/12 
+* **Principal Investigator**. National Natural Science Foundation of China (NSFC), No. 12101252 (January 2022 --- December 2024)
+* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351 (January 2022 --- December 2024)
 
 
 Awards
