@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Wei Liu (刘伟)"
 excerpt: "About me"
 author_profile: true
