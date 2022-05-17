@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: "Liu, Wei (刘伟)" <!-- "About me" -->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,9 +13,6 @@ redirect_from:
 
 <!-- Brief CV -->
 
-
-Liu, Wei (刘伟)
-=====
 PhD, Postdoc, Computational Mathematics <br>
 Email: wliu@m.scnu.edu.cn
 
