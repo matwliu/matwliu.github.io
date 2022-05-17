@@ -25,8 +25,8 @@ Education
 
 Work experience
 ======
-* **Visiting Scholar**, [Department of Mathematics](https://www.math.nus.edu.sg), [National University of Singapore](http://www.nus.edu.sg/), 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
-* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), [South China Normal University](http://www.scnu.edu.cn), 2020/10–present (Mentor: Prof. [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
+* **Visiting Scholar**, [Department of Mathematics](https://www.math.nus.edu.sg), National University of Singapore, 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
+* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present (Mentor: Prof. [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 
 
 Research Area
