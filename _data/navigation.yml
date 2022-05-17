@@ -6,8 +6,11 @@ main:
   - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "TALKS"
-    url: /talks/
+  - title: "CONFERENCES"
+    url: /conferences/
+
+#   - title: "TALKS"
+#     url: /talks/
 
   - title: "TEACHING"
     url: /teaching/
