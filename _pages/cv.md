@@ -19,16 +19,16 @@ Email: wliu@m.scnu.edu.cn
 
 Education
 ======
-* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020
-  <!-- (**Advisor**: Prof. [Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm)) -->
+* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020 <br>
+ (**Advisor**: Professor [Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm)) 
 * **B.Sc.**, Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
 
 
 Work experience
 ======
-* **Visiting Scholar**, [Department of Mathematics](https://www.math.nus.edu.sg), National University of Singapore, 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
-* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present 
-  <!-- (Mentor: Prof. [Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
+* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), 2022/02–present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
+* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, 2020/10–present <br>
+ (Mentor: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 
 
 Research Area
@@ -40,6 +40,7 @@ Research Area
 * Bose-Einstein Condensation, Nonlinear Dispersive PDEs 
 
 
+<!-- 
 Grants
 ======
 * **Principal Investigator**. National Natural Science Foundation of China (NSFC), No. 12101252, 2022/01--2024/12
@@ -55,6 +56,7 @@ Awards
 * Excellent Bachelor Degree Thesis of Hunan Normal University, 2014
 * First Prize in National College Student Mathematics Contest (Hunan Division), 2013
 * Second Prize in China Undergraduate Mathematical Contest in Modeling, 2012
+-->
 
 
 <!--   
