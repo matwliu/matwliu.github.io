@@ -42,8 +42,8 @@ Research Area
 
 Grants
 ======
-* **Principal Investigator**. National Natural Science Foundation of China (NSFC), No.~12101252, 2022/01--2024/12
-* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No.~2022A1515010351, 2022/01--2024/12 
+* **Principal Investigator**. National Natural Science Foundation of China (NSFC), No. 12101252, 2022/01--2024/12
+* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, 2022/01--2024/12 
 
 
 
