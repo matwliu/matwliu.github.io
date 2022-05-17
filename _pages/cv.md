@@ -44,8 +44,8 @@ Grants
 ======
 * **Principal Investigator**. National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024, _The study on regularized numerical methods for nonlinear partial differential equations with singular term_
 * **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024, _Mathematical theory and numerical methods for quantum droplets_
-<!-- 
-* **Participant**. National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie), _The study on two types of novel methods for solving multiple solutions of nonlinear PDEs and their applications_
+
+<!-- * **Participant**. National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie), _The study on two types of novel methods for solving multiple solutions of nonlinear PDEs and their applications_
 * **Participant**. National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan), _The study of efficient numerical methods to simulate ground states and dynamics of general spinor Bose-Einstein condensates_
  -->
 
