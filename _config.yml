@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Liu"
   avatar           : "profile.png"
-  bio              : " " # "Your biography for the left-hand sidebar"
-  location         : # "Location"
+  bio              : "PhD, Postdoc, Computational Mathematics" # "Your biography for the left-hand sidebar"
+  location         : "Guangzhou, China" # "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en"
