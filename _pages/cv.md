@@ -21,7 +21,7 @@ Work experience
 ======
 * **Postdoc**, South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS),
 South China Normal University, 2020/10–present (Mentor: Prof. Weizhu Bao)
-  - **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–2023/01 (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council).
+* **Visiting Scholar**, Department of Mathematics, National University of Singapore, 2022/02–2023/01 (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council).
 
 Research Area
 ======
