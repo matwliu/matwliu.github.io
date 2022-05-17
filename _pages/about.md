@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Liu"
+title: "Wei Liu (刘伟)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
