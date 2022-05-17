@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Wei Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- Brief CV -->
 
-**Wei Liu** <br>
+<!-- **Wei Liu** <br> -->
 Postdoc, CAMIS, South China Normal University <br>
 Email: wliu@m.scnu.edu.cn
 
