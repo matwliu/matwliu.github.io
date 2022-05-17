@@ -15,16 +15,16 @@ Invited Talks
 ------
 * **2020--present**:
   - Seminar Talk, Mathematical Research Center & School of Mathematics and Statistics, Hunan Normal University, August 25, 2021
-  - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021.
-  - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021.
+  - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
+  - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
   - Online Seminar Talk, Center for Applied Mathematics, Tianjin University, November 10, 2020
 
 * **2015--2019**:
-  - Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22), at the 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020. 
-  - Mini-Symposium on "Computations of Multiple Solutions for Nonlinear Problems and Their Applications" (TM13), at the 17th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2019), Foshan, China, September 19 -- 22, 2019. 
-  - Mini-Symposium on "Multiple Solutions, Phase Transitions and Rare Events" (S09), at the 12th Annual Meeting of the Chinese Computational Mathematics, Harbin, China, July 31 -- August 4, 2019.
+  - Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22), at the 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020
+  - Mini-Symposium on "Computations of Multiple Solutions for Nonlinear Problems and Their Applications" (TM13), at the 17th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2019), Foshan, China, September 19 -- 22, 2019
+  - Mini-Symposium on "Multiple Solutions, Phase Transitions and Rare Events" (S09), at the 12th Annual Meeting of the Chinese Computational Mathematics, Harbin, China, July 31 -- August 4, 2019
   - Seminar Talk, School of Mathematics and Computational Science, Xiangtan University, September 23, 2018
-  - Workshop on "Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018.
+  - Workshop on "Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018
 
 
 
