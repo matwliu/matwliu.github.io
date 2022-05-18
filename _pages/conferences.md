@@ -24,7 +24,7 @@ Invited Talks
 - Workshop on "Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018
 
 
-
+<!-- 
 Conferences Attended
 ------
 - The 7th Youth Academic Forum on Partial Differential Equations, CAMIS, South China Normal University, Guangzhou, China, November 27 -- December 1, 2020
@@ -53,7 +53,6 @@ Summer School Participation
 * Mini Course on PDEs in Biology and Computation, Xiangtan University, Xiangtan, China, July 6 -- 10, 2015
 * 2014 Winter School on Multiscale Model Reduction, Hunan University, Changsha, China, December 8 -- 12, 2014
 * Summer School on Computational Fluid-Solid Coupling Dynamics, Peking University & Beijing University of Technology, Beijing, China, July 12 -- 19, 2014
-
-
+ -->
 
 
