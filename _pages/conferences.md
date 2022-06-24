@@ -15,6 +15,7 @@ Conferences to be Attended
 
 Invited Talks
 ------
+<!-- - Online Seminar Talk, School of Mathematics and Physics, Shanghai Normal University, July 5, 2022 -->
 - Seminar Talk, Mathematical Research Center & School of Mathematics and Statistics, Hunan Normal University, China, August 25, 2021
 - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
 - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
