@@ -8,14 +8,13 @@ author_profile: true
 Conferences to be Attended
 ------
 <!-- * [International Conference on Scientific Computation and Differential Equations (SciCADE2021)](https://scicade2021.hi.is/), University of Iceland, Reykjavik, Iceland, July 25 -- 29, 2022 -->
-* [(Virtual) International Congress of Mathematicians 2022 (ICM2022)](https://www.mathunion.org/icm/virtual-icm-2022), July 6 -- 14, 2022
 * Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, TBA
 
 
 
 Invited Talks
 ------
-<!-- - Online Seminar Talk, School of Mathematics and Physics, Shanghai Normal University, July 5, 2022 -->
+- Online Seminar Talk, School of Mathematics and Physics, Shanghai Normal University, July 5, 2022
 - Seminar Talk, Mathematical Research Center & School of Mathematics and Statistics, Hunan Normal University, China, August 25, 2021
 - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
 - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
@@ -30,6 +29,7 @@ Invited Talks
 <!-- 
 Conferences Attended
 ------
+- [International Congress of Mathematicians 2022 (Virtual ICM2022)](https://www.mathunion.org/icm/virtual-icm-2022), July 6 -- 14, 2022
 - The 7th Youth Academic Forum on Partial Differential Equations, CAMIS, South China Normal University, Guangzhou, China, November 27 -- December 1, 2020
 - International Conference on Applied Mathematics and Interdisciplinary Studies, CAMIS, South China Normal University, Guangzhou, China, November 13 -- 16, 2020
 - Workshop 2: Modeling and Simulation for Quantum Condensation, Fluids and Information, in A Thematic Program on "Quantum and Kinetic Problems: Modeling, Analysis, Numerics and Applications" (September 30, 2019 -- March 31, 2020), Institute for Mathematical Sciences, National University of Singapore, Singapore, November 18 -- 22, 2019
