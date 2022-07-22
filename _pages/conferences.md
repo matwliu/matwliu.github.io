@@ -26,6 +26,19 @@ Invited Talks
 - Workshop on "Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018
 
 
+
+
+Recent Conferences Attended
+------
+- [International Congress of Mathematicians 2022 (Virtual ICM2022)](https://www.mathunion.org/icm/virtual-icm-2022), July 6 -- 14, 2022
+- International Conference on Applied Mathematics and Interdisciplinary Studies, CAMIS, South China Normal University, Guangzhou, China, November 13 -- 16, 2020
+- Workshop 2: Modeling and Simulation for Quantum Condensation, Fluids and Information, in _A Thematic Program on "Quantum and Kinetic Problems: Modeling, Analysis, Numerics and Applications"_ (September 30, 2019 -- March 31, 2020), Institute for Mathematical Sciences, National University of Singapore, Singapore, November 18 -- 22, 2019
+- International Conference on "Advanced Numerical Methods for Scientific Computation", Southern University of Science and Technology, Shenzhen, China, June 15 -- 17, 2019
+- The 9th International Conference on Partial Differential Equations & Their Numerical Analysis, Changsha, China, September 9 -- 12, 2018
+- Mathematical Model and Computation of Nonlinear Problems, Tsinghua Sanya International Mathematics Forum, Sanya, China, January 15 -- 19, 2018
+
+
+
 <!-- 
 Conferences Attended
 ------
