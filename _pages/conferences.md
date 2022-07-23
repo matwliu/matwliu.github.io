@@ -37,7 +37,10 @@ Conferences Attended
 - International Conference on "Advanced Numerical Methods for Scientific Computation", Southern University of Science and Technology, Shenzhen, China, June 15 -- 17, 2019
 - The 9th International Conference on Partial Differential Equations & Their Numerical Analysis, Changsha, China, September 9 -- 12, 2018
 - Mathematical Model and Computation of Nonlinear Problems, Tsinghua Sanya International Mathematics Forum, Sanya, China, January 15 -- 19, 2018
-
+- Focus Activity on Mathematical and Computational Methods for Quantum and Kinetic Problems, Beijing Computational Science Research Center, Beijing, China, June 7 -- 14, 2017
+- The 6th Workshop on Recent Advances on Spectral Methods and Related Applications, Changsha, China, May 13 -- 14, 2017
+- The 9th National Conference on Finite Element Methods, Emeishan, China, August 19 -- 22, 2016
+- The 8th International Congress on Industrial and Applied Mathematics (ICIAM 2015), Beijing, China, August 10 -- 14, 2015
 
 
 <!-- 
