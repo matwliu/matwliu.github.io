@@ -29,7 +29,7 @@ Invited Talks
 
 
 
-Recent Conferences Attended
+Conferences Attended
 ------
 - [International Congress of Mathematicians 2022 (Virtual ICM2022)](https://www.mathunion.org/icm/virtual-icm-2022), July 6 -- 14, 2022
 - International Conference on Applied Mathematics and Interdisciplinary Studies, CAMIS, South China Normal University, Guangzhou, China, November 13 -- 16, 2020
