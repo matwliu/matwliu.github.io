@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-URLs:
+<!-- URLs: -->
 [Google Scholar Profile](https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en), 
 [ORCID](https://orcid.org/0000-0002-2926-2667),
 [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1423454)
@@ -28,8 +28,8 @@ Preprints
 <!-- Haifan Chen, Guozhi Dong<sup>*</sup>, **Wei Liu**, and Ziqing Xie, -->
 * Second-order flows for computing the ground states of rotating Bose-Einstein condensates 
 	(with Haifan Chen, Guozhi Dong and Ziqing Xie), 
-  [arXiv:2205.00805](https://arxiv.org/abs/2205.00805) [math.NA]
-  <!-- submitted to J. Comput. Phys.. -->
+	[arXiv:2205.00805](https://arxiv.org/abs/2205.00805) [math.NA]
+  <!-- submitted to J. Comput. Phys. -->
 
 <!-- **Wei Liu**, Yongjun Yuan<sup>*</sup>, and Xiaofei Zhao,  -->
 *	Computing the action ground state for the rotating nonlinear Schrödinger equation 
@@ -40,18 +40,20 @@ Preprints
 <!-- **Wei Liu**, Ziqing Xie<sup>*</sup>, and Wenfan Yi,  -->
 *	Nonmonotone local minimax methods for finding multiple saddle points 
 	(with Ziqing Xie and Wenfan Yi), 
-  [arXiv:2109.01865](http://arxiv.org/abs/2109.01865) [math.NA]
-  <!-- submitted to SIAM J. Numer. Anal. -->
+	[arXiv:2109.01865](http://arxiv.org/abs/2109.01865) [math.NA]
+  <!-- submitted to J. Comput. Math. -->
 
 <!-- **Wei Liu**, Ziqing Xie, and Wenfan Yi<sup>*</sup>,  -->
 *	Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs 
 	(with Ziqing Xie and Wenfan Yi),
-  [arXiv:2108.05102](http://arxiv.org/abs/2108.05102) [math.NA]
+	[arXiv:2108.05102](http://arxiv.org/abs/2108.05102) [math.NA]
   <!-- submitted to Sci. China Math. -->
  
 <!-- **Wei Liu**, Ziqing Xie, and Yongjun Yuan<sup>*</sup>, -->
 * A constrained gentlest ascent dynamics and its application to find excited states of Bose-Einstein condensates 
-	(with Ziqing Xie and Yongjun Yuan), submitted
+	(with Ziqing Xie and Yongjun Yuan), 
+	[arXiv:2209.04684](https://arxiv.org/abs/2209.04684) [math.NA]
+  <!-- submitted to J. Comput. Phys. -->
  
  
 Peer Reviewed Papers
