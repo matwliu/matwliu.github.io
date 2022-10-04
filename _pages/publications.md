@@ -32,12 +32,6 @@ Preprints
 	[arXiv:2205.00805](https://arxiv.org/abs/2205.00805) [math.NA]
   <!-- submitted to J. Comput. Phys. -->
 
-<!-- **Wei Liu**, Yongjun Yuan<sup>*</sup>, and Xiaofei Zhao,  -->
-*	Computing the action ground state for the rotating nonlinear Schrödinger equation 
-	(with Yongjun Yuan and Xiaofei Zhao), 
-	[arXiv:2203.06383](https://arxiv.org/abs/2203.06383) [math.NA]
-  <!-- submitted to SIAM J. Sci. Comput. -->
-
 <!-- **Wei Liu**, Ziqing Xie<sup>*</sup>, and Wenfan Yi,  -->
 *	Nonmonotone local minimax methods for finding multiple saddle points 
 	(with Ziqing Xie and Wenfan Yi), 
@@ -60,6 +54,9 @@ Preprints
 Peer Reviewed Papers
 ======
 
+5. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
+  [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://arxiv.org/abs/2203.06383), 
+  _**SIAM J. Sci. Comput.**_, accepted (October 3, 2022)
 
 4. Yongyong Cai and **Wei Liu***,
   [Efficient and accurate gradient flow methods for computing ground states of spinor Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2021.110183), 
