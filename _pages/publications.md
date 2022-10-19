@@ -43,16 +43,15 @@ Preprints
 	(with Ziqing Xie and Wenfan Yi),
 	[arXiv:2108.05102](http://arxiv.org/abs/2108.05102) [math.NA]
   <!-- submitted to Sci. China Math. -->
- 
-<!-- **Wei Liu**, Ziqing Xie, and Yongjun Yuan<sup>*</sup>, -->
-* A constrained gentlest ascent dynamics and its application to find excited states of Bose-Einstein condensates 
-	(with Ziqing Xie and Yongjun Yuan), 
-	[arXiv:2209.04684](https://arxiv.org/abs/2209.04684) [math.NA]
-  <!-- submitted to J. Comput. Phys. -->
- 
- 
+
+
+
 Peer Reviewed Papers
 ======
+
+6. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*,
+  [A constrained gentlest ascent dynamics and its application to find excited states of Bose-Einstein condensates](https://arxiv.org/abs/2209.04684),
+  _**J. Comput. Phys.**_, accepted (October 18, 2022)
 
 5. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
   [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://arxiv.org/abs/2203.06383), 
