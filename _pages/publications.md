@@ -50,7 +50,7 @@ Peer Reviewed Papers
 ======
 
 6. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*,
-  [A constrained gentlest ascent dynamics and its application to find excited states of Bose-Einstein condensates](https://arxiv.org/abs/2209.04684),
+  [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://arxiv.org/abs/2209.04684),
   _**J. Comput. Phys.**_, accepted (October 18, 2022)
 
 5. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
