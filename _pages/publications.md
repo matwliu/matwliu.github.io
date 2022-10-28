@@ -51,12 +51,12 @@ Peer Reviewed Papers
 
 
 6. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
-  [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/???), 
-  _**SIAM J. Sci. Comput.**_, accepted (October 3, 2022) [[arXiv]](https://arxiv.org/abs/2203.06383)
+  [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/), 
+  _**SIAM J. Sci. Comput.**_, accepted (October 3, 2022) [[arXiv](https://arxiv.org/abs/2203.06383)]
 
 5. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*,
   [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), 
-  _**J. Comput. Phys.**_, in press (available online October 26, 2022) [[arXiv]](https://arxiv.org/abs/2209.04684)
+  _**J. Comput. Phys.**_, in press, 2022 [[doi](https://doi.org/10.1016/j.jcp.2022.111719)] [[arXiv](https://arxiv.org/abs/2209.04684)]
 
 4. Yongyong Cai and **Wei Liu***,
   [Efficient and accurate gradient flow methods for computing ground states of spinor Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2021.110183), 
