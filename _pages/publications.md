@@ -52,7 +52,7 @@ Peer Reviewed Papers
 
 6. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
   Computing the action ground state for the rotating nonlinear Schrödinger equation, 
-  _**SIAM J. Sci. Comput.**_, accepted, October 3, 2022 (arXiv:2203.06383)
+  _**SIAM J. Sci. Comput.**_, accepted, 3 October 2022 (arXiv:2203.06383)
 
 5. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*,
   [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), 
