@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en"
-  email            : wliu@m.scnu.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : # wliu@m.scnu.edu.cn
+  researchgate     : https://www.researchgate.net/profile/Wei-Liu-698  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
