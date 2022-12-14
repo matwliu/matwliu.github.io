@@ -1,3 +1,4 @@
+<!-- 
 ---
 <!-- layout: archive -->
 title: "Brief CV"
@@ -96,3 +97,4 @@ Service and leadership
  -->
 
 
+ -->
