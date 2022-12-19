@@ -26,7 +26,7 @@ author_profile: true
  
  
 Preprints
-------
+======
 
 <!-- **Wei Liu**, Ziqing Xie<sup>*</sup>, and Wenfan Yi,  -->
 *	Nonmonotone local minimax methods for finding multiple saddle points 
@@ -43,7 +43,7 @@ Preprints
 
 
 Peer Reviewed Papers
-------
+======
 
 7. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
   Second-order flows for computing the ground states of rotating Bose-Einstein condensates,
