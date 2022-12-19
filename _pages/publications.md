@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 <!-- URLs: -->
-<!-- [Google Scholar](https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en),  -->
-<!-- [ResearchGate](https://www.researchgate.net/profile/Wei-Liu-698),  -->
-<!-- [ORCID](https://orcid.org/0000-0002-2926-2667),  -->
-<!-- [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1423454) -->
+[Google Scholar](https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en), 
+[ResearchGate](https://www.researchgate.net/profile/Wei-Liu-698), 
+[ORCID](https://orcid.org/0000-0002-2926-2667), 
+[MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1423454)
 
  
 <!-- {% if author.googlescholar %}
@@ -25,7 +25,7 @@ author_profile: true
  
  
 Preprints
-======
+------
 
 <!-- **Wei Liu**, Ziqing Xie<sup>*</sup>, and Wenfan Yi,  -->
 *	Nonmonotone local minimax methods for finding multiple saddle points 
@@ -42,7 +42,7 @@ Preprints
 
 
 Peer Reviewed Papers
-======
+------
 
 7. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
   Second-order flows for computing the ground states of rotating Bose-Einstein condensates,
