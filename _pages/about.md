@@ -32,12 +32,9 @@ Employment
 
 Research
 ======
-* Research area: 
-  - Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems
-  - Bose-Einstein Condensation, Nonlinear Dispersive PDEs
-  - Computational and Applied Mathematics, Computational Quantum Physics
-  - Applied Analysis, Scientific Computing, Numerical PDEs
-* [My publications](https://matwliu.github.io/publications/)
+* Research Area: Computational and Applied Mathematics, Numerical Methods for PDEs, Computational Quantum Physics, <br>
+  Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems, Nonlinear Dispersive PDEs, Bose-Einstein Condensation
+* [Publication List](https://matwliu.github.io/publications/)
 * List of my publications in [Web of Science](https://www.webofscience.com/wos/author/record/HGB-8197-2022)
 
 
