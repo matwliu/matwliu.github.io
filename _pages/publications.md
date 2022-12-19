@@ -26,11 +26,6 @@ author_profile: true
  
 Preprints
 ======
-<!-- Haifan Chen, Guozhi Dong<sup>*</sup>, **Wei Liu**, and Ziqing Xie, -->
-* Second-order flows for computing the ground states of rotating Bose-Einstein condensates 
-	(with Haifan Chen, Guozhi Dong and Ziqing Xie), 
-	[arXiv:2205.00805](https://arxiv.org/abs/2205.00805) [math.NA]
-  <!-- submitted to J. Comput. Phys. -->
 
 <!-- **Wei Liu**, Ziqing Xie<sup>*</sup>, and Wenfan Yi,  -->
 *	Nonmonotone local minimax methods for finding multiple saddle points 
@@ -49,10 +44,13 @@ Preprints
 Peer Reviewed Papers
 ======
 
+7. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
+  Second-order flows for computing the ground states of rotating Bose-Einstein condensates
+  _**J. Comput. Phys.**_, accepted, 19 December 2022 ([arXiv:2205.00805](https://arxiv.org/abs/2205.00805))
 
 6. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
   Computing the action ground state for the rotating nonlinear Schrödinger equation, 
-  _**SIAM J. Sci. Comput.**_, accepted, 3 October 2022 (arXiv:2203.06383)
+  _**SIAM J. Sci. Comput.**_, accepted, 3 October 2022 ([arXiv:2203.06383](https://arxiv.org/abs/2203.06383))
 
 5. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*,
   [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), 
