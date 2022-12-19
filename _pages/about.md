@@ -30,15 +30,18 @@ Employment
   (Mentor: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 
 
-Research Area
+Research
 ======
-<!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
+* Research Area: Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs
+<!-- 
 * Computational and Applied Mathematics, Computational Quantum Physics
 * Numerical PDEs, Applied Analysis, Scientific Computing
 * Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems
 * Bose-Einstein Condensation, Nonlinear Dispersive PDEs 
+ -->
 
-[**Publications**](https://matwliu.github.io/publications/)
+* [My publications](https://matwliu.github.io/publications/)
+* List of my publications in [Web of Science](https://www.webofscience.com/wos/author/record/HGB-8197-2022)
 
 
 Grants
