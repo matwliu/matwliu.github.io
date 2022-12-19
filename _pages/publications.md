@@ -45,7 +45,7 @@ Peer Reviewed Papers
 ======
 
 7. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
-  Second-order flows for computing the ground states of rotating Bose-Einstein condensates
+  Second-order flows for computing the ground states of rotating Bose-Einstein condensates,
   _**J. Comput. Phys.**_, accepted, 19 December 2022 ([arXiv:2205.00805](https://arxiv.org/abs/2205.00805))
 
 6. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
