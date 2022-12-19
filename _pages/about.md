@@ -32,7 +32,7 @@ Employment
 
 Research
 ======
-* Research Area: Computational and Applied Mathematics, Scientific Computing, Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems, Nonlinear Dispersive PDEs, Bose-Einstein Condensation, Computational Quantum Physics
+* **Research Area**: Computational and Applied Mathematics, Scientific Computing, Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems, Nonlinear Dispersive PDEs, Bose-Einstein Condensation, Computational Quantum Physics
 * [Publication List](https://matwliu.github.io/publications/)
 
 
