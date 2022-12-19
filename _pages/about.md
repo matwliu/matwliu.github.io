@@ -32,12 +32,12 @@ Employment
 
 Research Area
 ======
-[**Publications**](https://matwliu.github.io/publications/)
 <!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
 * Computational and Applied Mathematics, Computational Quantum Physics
 * Numerical PDEs, Applied Analysis, Scientific Computing
 * Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems
 * Bose-Einstein Condensation, Nonlinear Dispersive PDEs 
+[**Publications**](https://matwliu.github.io/publications/)
 
 
 Grants
