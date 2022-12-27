@@ -10,7 +10,8 @@ author_profile: true
 [ResearchGate](https://www.researchgate.net/profile/Wei-Liu-698), 
 [ORCID](https://orcid.org/0000-0002-2926-2667), 
 [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1423454),
-[Web of Science](https://www.webofscience.com/wos/author/record/HGB-8197-2022)
+[Web of Science](https://www.webofscience.com/wos/author/record/HGB-8197-2022), 
+[Scopus](http://www.scopus.com/inward/authorDetails.url?authorID=57221932549&partnerID=MN8TOARS)
 
  
 <!-- {% if author.googlescholar %}
