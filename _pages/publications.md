@@ -29,11 +29,6 @@ author_profile: true
 Preprints
 ======
 
-<!-- **Wei Liu**, Ziqing Xie<sup>*</sup>, and Wenfan Yi,  -->
-*	Nonmonotone local minimax methods for finding multiple saddle points 
-	(with Ziqing Xie and Wenfan Yi), 
-	[arXiv:2109.01865](http://arxiv.org/abs/2109.01865) [math.NA]
-  <!-- submitted to J. Comput. Math. -->
 
 <!-- **Wei Liu**, Ziqing Xie, and Wenfan Yi<sup>*</sup>,  -->
 *	Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs 
@@ -45,6 +40,10 @@ Preprints
 
 Peer Reviewed Papers
 ======
+
+8. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
+  Nonmonotone local minimax methods for finding multiple saddle points, 
+  _**J. Comput. Math.**_, accepted, 3 January 2023 ([arXiv:2109.01865](http://arxiv.org/abs/2109.01865))
 
 7. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
   [Second-order flows for computing the ground states of rotating Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111872),
