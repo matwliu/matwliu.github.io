@@ -26,32 +26,39 @@ author_profile: true
  -->
  
  
-Preprints
+<!-- Preprints
+======
+ -->
+
+
+<!-- Peer Reviewed Papers
+====== 
+ -->
+
+
+Accepted
 ======
 
+* **Wei Liu**, Ziqing Xie, and Wenfan Yi*, 
+  Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs, 
+  _**Sci. China Math.**_, accepted, 17 January 2023 ([arXiv:2108.05102](http://arxiv.org/abs/2108.05102))
 
-<!-- **Wei Liu**, Ziqing Xie, and Wenfan Yi<sup>*</sup>,  -->
-*	Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs 
-	(with Ziqing Xie and Wenfan Yi),
-	[arXiv:2108.05102](http://arxiv.org/abs/2108.05102) [math.NA]
-  <!-- submitted to Sci. China Math. -->
-
-
-
-Peer Reviewed Papers
-======
-
-8. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
+* **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   Nonmonotone local minimax methods for finding multiple saddle points, 
   _**J. Comput. Math.**_, accepted, 3 January 2023 ([arXiv:2109.01865](http://arxiv.org/abs/2109.01865))
 
-7. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
-  [Second-order flows for computing the ground states of rotating Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111872),
-  _**J. Comput. Phys.**_, Vol. **475** (2023), article 111872 (arXiv:2205.00805)
-  
-6. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
+* **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
   Computing the action ground state for the rotating nonlinear Schrödinger equation, 
   _**SIAM J. Sci. Comput.**_, accepted, 3 October 2022 ([arXiv:2203.06383](https://arxiv.org/abs/2203.06383))
+
+
+
+Published
+====== 
+
+6. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
+  [Second-order flows for computing the ground states of rotating Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111872),
+  _**J. Comput. Phys.**_, Vol. **475** (2023), article 111872 (arXiv:2205.00805)
 
 5. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*,
   [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), 
