@@ -8,6 +8,8 @@ author_profile: true
 Conferences to be Attended
 ------
 <!-- * [International Conference on Scientific Computation and Differential Equations (SciCADE2021)](https://scicade2021.hi.is/), University of Iceland, Reykjavik, Iceland, July 25 -- 29, 2022 -->
+
+*  [A One-month Program on "Multiscale Analysis and Methods for Quantum and Kinetic Problems"](https://ims.nus.edu.sg/events/qkp2023/), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 30 -- March 10, 2023
 <!-- * Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, TBA -->
 * [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, TBA
 
