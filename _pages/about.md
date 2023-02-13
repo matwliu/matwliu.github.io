@@ -26,9 +26,10 @@ News
 * (**17 Jan 2023**) Our paper [_Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs_](http://arxiv.org/abs/2108.05102) has been accepted in _**Science China Mathematics**_. This is a joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
 * (**03 Jan 2023**) Our paper [_Nonmonotone local minimax methods for finding multiple saddle points_](http://arxiv.org/abs/2109.01865) has been accepted in _**Journal of Computational Mathematics**_. This is a joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
 * (**19 Dec 2022**) Our paper [_Second-order flows for computing the ground states of rotating Bose-Einstein condensates_](https://doi.org/10.1016/j.jcp.2022.111872) has been accepted in _**Journal of Computational Physics**_. This is a joint work with Haifan Chen (Hunan Normal University), Guozhi Dong (Central South University), and Ziqing Xie (Hunan Normal University).
+* (**06 Dec 2022**) I have been awarded the _2022 Excellent Doctoral Dissertation Award of Hunan Province_ by the Hunan Provincial Department of Education.
 * (**18 Oct 2022**) Our paper [_A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates_](https://doi.org/10.1016/j.jcp.2022.111719) has been accepted in _**Journal of Computational Physics**_. This is a joint work with Yongjun Yuan (Hunan Normal University) and Ziqing Xie (Hunan Normal University).
 * (**03 Oct 2022**) Our paper [_Computing the action ground state for the rotating nonlinear Schrödinger equation_](https://arxiv.org/abs/2203.06383) has been accepted in _**SIAM Journal on Scientific Computing**_. This is a joint work with Yongjun Yuan (Hunan Normal University) and Xiaofei Zhao (Wuhan University).
-  
+* (**26 Feb 2022**) I am a one-year visiting scholar in the Department of Mathematics at National University of Singapore from February 2022 until February 2023. This visiting program is funded by the Office of China Postdoc Council (OCPC).
 
 
 
