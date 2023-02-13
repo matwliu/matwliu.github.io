@@ -22,9 +22,21 @@ My research is at computational and applied mathematics with a main focus on sci
 
 News
 ======
-* (**17-Jan-2023**) Our paper [_Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs_](http://arxiv.org/abs/2108.05102) has been accepted in the _**Science China Mathematics**_. This is joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
-* (**03-Jan-2023**) Our paper [_Nonmonotone local minimax methods for finding multiple saddle points_](http://arxiv.org/abs/2109.01865) has been accepted in the _**Journal of Computational Mathematics**_. This is joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
-* (**03-Oct-2022**) Our paper [_Computing the action ground state for the rotating nonlinear Schrödinger equation_](https://arxiv.org/abs/2203.06383) has been accepted in the _**SIAM Journal on Scientific Computing**_. This is joint work with Yongjun Yuan (Hunan Normal University) and Xiaofei Zhao (Wuhan University).
+
+17-Jan-2023
+: Our paper [_Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs_](http://arxiv.org/abs/2108.05102) has been accepted in the _**Science China Mathematics**_. This is joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
+
+03-Jan-2023
+: Our paper [_Nonmonotone local minimax methods for finding multiple saddle points_](http://arxiv.org/abs/2109.01865) has been accepted in the _**Journal of Computational Mathematics**_. This is joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
+
+* 03-Oct-2022
+  : Our paper [_Computing the action ground state for the rotating nonlinear Schrödinger equation_](https://arxiv.org/abs/2203.06383) has been accepted in the _**SIAM Journal on Scientific Computing**_. This is joint work with Yongjun Yuan (Hunan Normal University) and Xiaofei Zhao (Wuhan University).
+  
+* 03-Oct-2022
+  : Our paper [_Computing the action ground state for the rotating nonlinear Schrödinger equation_](https://arxiv.org/abs/2203.06383) has been accepted in the _**SIAM Journal on Scientific Computing**_. This is joint work with Yongjun Yuan (Hunan Normal University) and Xiaofei Zhao (Wuhan University).
+
+* 03-Oct-2022
+  : Our paper [_Computing the action ground state for the rotating nonlinear Schrödinger equation_](https://arxiv.org/abs/2203.06383) has been accepted in the _**SIAM Journal on Scientific Computing**_. This is joint work with Yongjun Yuan (Hunan Normal University) and Xiaofei Zhao (Wuhan University).
 
 
 <!-- Education -->
