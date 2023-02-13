@@ -1,8 +1,11 @@
 # main links links
 main:
 
-  - title: "ABOUT"
-    url: /about/
+#   - title: "ABOUT"
+#     url: /about/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "PUBLICATIONS"
     url: /publications/
@@ -18,9 +21,6 @@ main:
     
   - title: "LINKS"
     url: /links/
-    
-#   - title: "CV"
-#     url: /cv/
 
     
 #   - title: "Portfolio"
