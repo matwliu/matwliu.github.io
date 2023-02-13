@@ -1,15 +1,11 @@
-<!-- ---
-<!-- layout: archive -->
-title: "Brief CV"
+---
 permalink: /cv/
+title: "Wei Liu (刘伟)"
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
-
-<!-- &nbsp; -->
 
 <!-- Brief CV -->
 
@@ -25,40 +21,46 @@ Education
 * **B.Sc.**, Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
 
 
-Work Experience
+Employment
 ======
 * **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- present (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
 * **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, October 2020 --- present <br> 
   (Mentor: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 
 
-Research Area
+Research
 ======
-<!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
-* Computational and Applied Mathematics, Computational Quantum Physics
-* Numerical PDEs, Applied Analysis, Scientific Computing
-* Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems
-* Bose-Einstein Condensation, Nonlinear Dispersive PDEs 
+* **Research Area**: Computational and Applied Mathematics, Scientific Computing, Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems, Nonlinear Dispersive PDEs, Bose-Einstein Condensation, Computational Quantum Physics
+* [Publication List](https://matwliu.github.io/publications/)
 
+<!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
+<!-- * Computational and Applied Mathematics, Computational Quantum Physics -->
+<!-- * Numerical PDEs, Applied Analysis, Scientific Computing -->
+<!-- * Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems -->
+<!-- * Bose-Einstein Condensation, Nonlinear Dispersive PDEs  -->
 
 
 Grants
 ======
-* **Principal Investigator**. National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024, _The study on regularized numerical methods for nonlinear partial differential equations with singular term_
-* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024, _Mathematical theory and numerical methods for quantum droplets_
+* **Principal Investigator**. National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024
+* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024
+* **Participant**. National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie)
+* **Participant**. National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan)
 
-<!-- * **Participant**. National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie), _The study on two types of novel methods for solving multiple solutions of nonlinear PDEs and their applications_
-* **Participant**. National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan), _The study of efficient numerical methods to simulate ground states and dynamics of general spinor Bose-Einstein condensates_
- -->
+<!-- _The study on regularized numerical methods for nonlinear partial differential equations with singular term_ -->
+<!-- _Mathematical theory and numerical methods for quantum droplets_ -->
+<!-- _The study on two types of novel methods for solving multiple solutions of nonlinear PDEs and their applications_ -->
+<!-- _The study of efficient numerical methods to simulate ground states and dynamics of general spinor Bose-Einstein condensates_ -->
 
 
-Awards & Honors
+Awards
 ======
-<!-- * Excellent Doctoral Dissertation Award of Hunan Province, 2022 -->
+* Excellent Doctoral Dissertation Award of Hunan Province, 2022
 * International Postdoctoral Exchange Fellowship Program, 2021
 * National Scholarship for Graduate Students, 2015
 * First Prize in National College Student Mathematics Contest (Hunan Division), 2013
 * Second Prize in China Undergraduate Mathematical Contest in Modeling, 2012
+
 
 
 
@@ -93,5 +95,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
- -->
  -->
