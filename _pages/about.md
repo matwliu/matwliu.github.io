@@ -16,6 +16,18 @@ Postdoc, CAMIS, South China Normal University <br>
 Email: wliu@m.scnu.edu.cn
 
 
+About Me
+======
+
+I am currently a postdoc in the South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS) at South China Normal University and a one-year visiting scholar in the Department of Mathematics at National University of Singapore. Before that, I received my PhD in 2020 and my BSc in 2014 at Hunan Normal University.
+
+My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to nonlinear problems with applications in quantum physics and materials science. 
+
+My recent research topics include (i) finding multiple saddle points for nonconvex functionals involving nonlinear partial differential equations, and (ii) computing stationary states of Bose-Einstein condensates based on nonlinear Schrödinger/Gross-Pitaevskii equations. 
+
+
+
+
 Education
 ======
 * **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020 <br> 
