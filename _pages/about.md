@@ -23,6 +23,8 @@ My research is at computational and applied mathematics with a main focus on sci
 News
 ======
 
+* (**23 February 2023**) I am honored to give a talk at [_A one-month program on "Multiscale Analysis and Methods for Quantum and Kinetic Problems"_](https://ims.nus.edu.sg/events/qkp2023/) (30 Jan 2023 - 10 Mar 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore.
+<!-- Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials	(20 - 24 February 2023) -->
 * (**17 Jan 2023**) Our paper [_Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs_](http://arxiv.org/abs/2108.05102) has been accepted in _**Science China Mathematics**_. This is a joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
 * (**03 Jan 2023**) Our paper [_Nonmonotone local minimax methods for finding multiple saddle points_](http://arxiv.org/abs/2109.01865) has been accepted in _**Journal of Computational Mathematics**_. This is a joint work with Ziqing Xie (Hunan Normal University) and Wenfan Yi (Hunan University).
 * (**19 Dec 2022**) Our paper [_Second-order flows for computing the ground states of rotating Bose-Einstein condensates_](https://doi.org/10.1016/j.jcp.2022.111872) has been accepted in _**Journal of Computational Physics**_. This is a joint work with Haifan Chen (Hunan Normal University), Guozhi Dong (Central South University), and Ziqing Xie (Hunan Normal University).
