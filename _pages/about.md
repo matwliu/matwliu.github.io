@@ -12,7 +12,7 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently a postdoc in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at South China Normal University and a one-year visiting scholar in the [Department of Mathematics](https://www.math.nus.edu.sg) at National University of Singapore. 
+I am currently a postdoctoral fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at South China Normal University and a one-year visiting scholar in the [Department of Mathematics](https://www.math.nus.edu.sg) at National University of Singapore. 
 <!-- Before that, I received my PhD in 2020 and my BSc in 2014 at [Hunan Normal University](https://www.hunnu.edu.cn). -->
 
 My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to nonlinear problems with applications in quantum physics and materials science. 
