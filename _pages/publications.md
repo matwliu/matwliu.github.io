@@ -41,7 +41,7 @@ Accepted
 ======
 
 * **Wei Liu**, Ziqing Xie, and Wenfan Yi*, 
-  Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs, 
+  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](http://engine.scichina.com/doi/10.1007/s11425-021-2093-1), 
   _**Sci. China Math.**_, accepted, 17 January 2023 ([arXiv:2108.05102](http://arxiv.org/abs/2108.05102))
 
 * **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
