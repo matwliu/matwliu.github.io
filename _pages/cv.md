@@ -23,10 +23,12 @@ Education
 
 Employment
 ======
-* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023 (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
-* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, October 2020 --- present 
+<!-- * **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), Singapore, April 2023 --- present (expected) -->
+<!-- * **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023 (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC)) -->
+* **Postdoc**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, October 2020 --- present
 <!-- <br>  -->
 <!--   (Mentor: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
+* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023 (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
 
 
 Research
