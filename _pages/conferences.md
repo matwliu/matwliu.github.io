@@ -7,10 +7,9 @@ author_profile: true
 
 Conferences to be Attended
 ------
-* [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20–25, 2023
-<!-- * [International Conference on Scientific Computation and Differential Equations (SciCADE2021)](https://scicade2021.hi.is/), University of Iceland, Reykjavik, Iceland, July 25 -- 29, 2022 -->
+* [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 <!-- * Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, TBA -->
-* [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, TBA
+* [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
 
 
 
