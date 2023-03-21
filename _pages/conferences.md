@@ -15,6 +15,8 @@ Conferences to be Attended
 
 Invited Talks
 ------
+- Seminar Talk, School of Mathematics, Hunan University, March 16, 2023
+- [Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials](https://ims.nus.edu.sg/wp-content/uploads/2023/02/2002-Workshop-2-Schedule.pdf) (20 – 24 February 2023), at [A one-month program on “Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 – 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf))
 - Online Seminar Talk, School of Mathematics and Physics, Shanghai Normal University, July 5, 2022
 - Seminar Talk, Mathematical Research Center & School of Mathematics and Statistics, Hunan Normal University, China, August 25, 2021
 - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
