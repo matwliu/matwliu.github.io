@@ -45,6 +45,7 @@ Research
 Grants
 ======
 * **Principal Investigator**. National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024
+* International Postdoctoral Exchange Fellowship Program, No. PC2021024, 2021
 * **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024
 <!-- * **Participant**. National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie) -->
 <!-- * **Participant**. National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan) -->
@@ -58,7 +59,7 @@ Grants
 Awards
 ======
 * Excellent Doctoral Dissertation Award of Hunan Province, 2022
-* International Postdoctoral Exchange Fellowship Program, 2021
+<!-- * International Postdoctoral Exchange Fellowship Program, 2021 -->
 * National Scholarship for Graduate Students, 2015
 * First Prize in National College Student Mathematics Contest (Hunan Division), 2013
 * Second Prize in China Undergraduate Mathematical Contest in Modeling, 2012
