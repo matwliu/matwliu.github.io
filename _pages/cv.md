@@ -10,8 +10,10 @@ author_profile: true
 <!-- Brief CV -->
 
 <!-- **Wei Liu** <br> -->
-Postdoc, CAMIS, South China Normal University <br>
-Email: wliu@m.scnu.edu.cn
+Research Fellow <br>
+Department of Mathematics, National University of Singapore <br>
+Block S17, 10 Lower Kent Ridge Road, Singapore 119076 <br>
+<!-- Email: wliu@m.scnu.edu.cn -->
 
 
 Education
@@ -23,10 +25,11 @@ Education
 
 Employment
 ======
-<!-- * **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), Singapore, April 2023 --- present (expected) -->
+* **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), Singapore, April 2023 --- present  <br> 
+  (Mentor: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 * **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023 
 <!-- (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC)) -->
-* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, July 2020 --- present <br> 
+* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, July 2020 --- March 2023 <br> 
   (Mentor: Professor [Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
 
 
