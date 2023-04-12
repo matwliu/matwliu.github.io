@@ -13,7 +13,7 @@ author_profile: true
 Research Fellow <br>
 Department of Mathematics, National University of Singapore <br>
 Block S17, 10 Lower Kent Ridge Road, Singapore 119076 <br>
-<!-- Email: wliu@m.scnu.edu.cn -->
+Email: wliu AT nus DOT edu DOT sg
 
 
 Education
