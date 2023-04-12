@@ -12,7 +12,7 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg). Before joining NUS, I received my PhD in 2020 and my BSc in 2014 at [Hunan Normal University](https://www.hunnu.edu.cn). From July 2020 to March 2023, I was a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). 
+I am currently a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg). Before joining NUS, I was a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn).
 
 
 My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to nonlinear problems with applications in quantum physics and materials science. 
