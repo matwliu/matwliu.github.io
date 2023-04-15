@@ -49,6 +49,7 @@ Research
 Awards
 ======
 * Excellent Doctoral Dissertation Award of Hunan Province, 2022
+* First Prize of Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software, 2022
 <!-- * International Postdoctoral Exchange Fellowship Program, 2021 -->
 * National Scholarship for Graduate Students, 2015
 * First Prize in National College Student Mathematics Contest (Hunan Division), 2013
