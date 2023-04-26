@@ -22,7 +22,7 @@ My research is at computational and applied mathematics with a main focus on sci
 
 News
 ======
-* (**15 Apr 2023**) I have been awarded the _**First Prize of Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software (2022)**_ for the paper "_Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates_" ([SIAM J. Sci. Comput., 2021, 43: B219–B242](https://doi.org/10.1137/20M1328002), joint with Yongyong Cai).
+* (**15 Apr 2023**) I have been awarded the _**First Prize of Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software (2022)**_ for the paper "_Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates_" (published in [SIAM J. Sci. Comput., 2021, 43: B219–B242](https://doi.org/10.1137/20M1328002), joint with Yongyong Cai).
 * (**11 Apr 2023**) Excited to start my new position as a **Research Fellow** in the [Department of Mathematics](https://www.math.nus.edu.sg) at National University of Singapore.
 * (**16 Mar 2023**) I have been invited to give a seminar talk in the [School of Mathematics at Hunan University](http://math.hnu.edu.cn).
 * (**23 Feb 2023**) It's a great pleasure to give a presentation in _Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials	(20 -- 24 February 2023)_, at the program on [_"Multiscale Analysis and Methods for Quantum and Kinetic Problems"_](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 -- 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore.
