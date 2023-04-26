@@ -32,21 +32,21 @@ author_profile: true
  -->
 
 
-Peer Reviewed Papers
-======
-
-
-<!-- Accepted
+<!-- Peer Reviewed Papers
 ====== -->
 
 
-<!-- Published
-======  -->
+Accepted
+======
 
-
-9. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
+* **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   Nonmonotone local minimax methods for finding multiple saddle points, 
-  _**J. Comput. Math.**_, 2023, in press ([arXiv:2109.01865](http://arxiv.org/abs/2109.01865))
+  _**J. Comput. Math.**_, to appear ([arXiv:2109.01865](http://arxiv.org/abs/2109.01865))
+
+
+
+Published
+====== 
 
 8. **Wei Liu**, Ziqing Xie, and Wenfan Yi*, 
   [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](http://engine.scichina.com/doi/10.1007/s11425-021-2093-1), 
