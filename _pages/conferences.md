@@ -10,12 +10,13 @@ Conferences to be Attended
 * [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 * [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 * [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
+* [The 7th International Conference on Scientific Computing and Partial Differential Equations (SCPDE23)](https://www.polyu.edu.hk/ama/events/conference/SCPDE23/index.htm), PolyU, Hong Kong, China, May 22 -- 26, 2023
 
 
 Invited Conference Talks
 ------
 <!-- - Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023 -->
-<!-- - Seminar Talk, School of Mathematics, Hunan University, March 16, 2023 -->
+<!-- - Seminar Talk, School of Mathematics, Hunan University, Changsha, China, March 16, 2023 -->
 - Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials (20 – 24 February 2023), at the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 – 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf))
 - Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
 - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
