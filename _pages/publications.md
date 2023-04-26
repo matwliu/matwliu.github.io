@@ -48,14 +48,14 @@ Accepted
   Nonmonotone local minimax methods for finding multiple saddle points, 
   _**J. Comput. Math.**_, accepted, 3 January 2023 ([arXiv:2109.01865](http://arxiv.org/abs/2109.01865))
 
-* **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
-  Computing the action ground state for the rotating nonlinear Schrödinger equation, 
-  _**SIAM J. Sci. Comput.**_, accepted, 3 October 2022 ([arXiv:2203.06383](https://arxiv.org/abs/2203.06383))
-
 
 
 Published
 ====== 
+
+7. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
+  [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), 
+  _**SIAM J. Sci. Comput.**_, Vol. 45 (2023), pp. A397--A426 (arXiv:2203.06383)
 
 6. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
   [Second-order flows for computing the ground states of rotating Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111872),
