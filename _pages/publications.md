@@ -49,8 +49,8 @@ Published
 ====== 
 
 8. **Wei Liu**, Ziqing Xie, and Wenfan Yi*, 
-  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](http://engine.scichina.com/doi/10.1007/s11425-021-2093-1), 
-  _**Sci. China Math.**_, 2023, http://engine.scichina.com/doi/10.1007/s11425-021-2093-1 (arXiv:2108.05102)
+  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://doi.org/10.1007/s11425-021-2093-1), 
+  _**Sci. China Math.**_, 2023, https://doi.org/10.1007/s11425-021-2093-1 (arXiv:2108.05102) 
 
 7. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
   [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), 
