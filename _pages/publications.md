@@ -49,7 +49,7 @@ Published
 ====== 
 
 8. **Wei Liu**, Ziqing Xie, and Wenfan Yi*, 
-  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://doi.org/10.1007/s11425-021-2093-1), 
+  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://link.springer.com/article/10.1007/s11425-021-2093-1), 
   _**Sci. China Math.**_, 2023, https://doi.org/10.1007/s11425-021-2093-1 (arXiv:2108.05102) 
 
 7. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
