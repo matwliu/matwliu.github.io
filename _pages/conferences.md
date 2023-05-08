@@ -7,23 +7,23 @@ author_profile: true
 
 Conferences to be Attended
 ------
-* **Invited Minisymposia Speaker**, [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
-* **Invited Minisymposia Speaker**, [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
-* **Invited Minisymposia Speaker**, [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
+* [**Invited Minisymposium Speaker**](https://iciam2023.org/registered_data?id=00413), [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
+* [**Invited Minisymposium Speaker**](https://icosahom2023.org/?page_id=884), [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
+* **Invited Minisymposium Speaker**, [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
 * [The 7th International Conference on Scientific Computing and Partial Differential Equations (SCPDE23)](https://www.polyu.edu.hk/ama/events/conference/SCPDE23/index.htm), The Hong Kong Polytechnic University, Hong Kong, China, May 22 -- 26, 2023
 * **Invited Speaker**, [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, May 17 -- 19, 2023
 
 
 Invited Conference Talks
 ------
-<!-- - Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023 -->
+<!-- - Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023 -->
 <!-- - Seminar Talk, School of Mathematics, Hunan University, Changsha, China, March 16, 2023 -->
 - Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials (20 – 24 February 2023), at the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 – 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf))
-- Mini-Symposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
+- Minisymposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
 - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
-- Mini-Symposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22), at the 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020
-- Mini-Symposium on "Computations of Multiple Solutions for Nonlinear Problems and Their Applications" (TM13), at the 17th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2019), Foshan, China, September 19 -- 22, 2019
-- Mini-Symposium on "Multiple Solutions, Phase Transitions and Rare Events" (S09), at the 12th Annual Meeting of the Chinese Computational Mathematics, Harbin, China, July 31 -- August 4, 2019
+- Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22), at the 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020
+- Minisymposium on "Computations of Multiple Solutions for Nonlinear Problems and Their Applications" (TM13), at the 17th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2019), Foshan, China, September 19 -- 22, 2019
+- Minisymposium on "Multiple Solutions, Phase Transitions and Rare Events" (S09), at the 12th Annual Meeting of the Chinese Computational Mathematics, Harbin, China, July 31 -- August 4, 2019
 - Workshop on "Modern Numerics on Nonlinear Wave & Dispersive Equations and Related Problems", Sichuan University, Chengdu, China, August 8 -- 9, 2018
 
 
