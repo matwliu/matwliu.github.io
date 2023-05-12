@@ -22,6 +22,8 @@ My research is at computational and applied mathematics with a main focus on sci
 
 News
 ======
+* (**04 May 2023**) It is my pleasure to be an invited speaker at the [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, 17 -- 19 May 2023.
+* (**17 Apr 2023**) I will give invited minisymposium talks at the [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org) (Waseda University, Tokyo, Japan, 20 -- 25 August 2023) and the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org) (Yonsei University, Seoul, Korea, 14 -- 18 August 2023).
 * (**15 Apr 2023**) I have been awarded the _**First Prize of Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software (2022)**_ for the paper "_Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates_" (published in [SIAM J. Sci. Comput., 2021, 43: B219–B242](https://doi.org/10.1137/20M1328002), joint with Yongyong Cai).
 * (**11 Apr 2023**) Excited to start my new position as a **Research Fellow** in the [Department of Mathematics](https://www.math.nus.edu.sg) at National University of Singapore.
 * (**16 Mar 2023**) I have been invited to give a seminar talk in the [School of Mathematics at Hunan University](http://math.hnu.edu.cn).
@@ -36,6 +38,7 @@ News
 * (**26 Feb 2022**) I am a one-year visiting scholar in the [Department of Mathematics](https://www.math.nus.edu.sg) at National University of Singapore from February 2022 until February 2023. This visiting program is funded by the Office of China Postdoc Council (OCPC).
 * (**17 Dec 2021**) I have been awarded the _**2021 Excellent Doctoral Dissertation Award of Hunan Normal University**_.
 * (**04 Sep 2021**) I have been invited by Dr Xiaofei Zhao to visit the [School of Mathematics and Statistics](https://maths.whu.edu.cn) at Wuhan University from September to October 2021.
+* (**30 May 2021**) I have been invited to give a minisymposium talk at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, <s>15 -- 19 August 2021</s> 15 -- 19 July 2023.
 * (**29 Jan 2021**) Our paper [_Efficient and accurate gradient flow methods for computing ground states of spinor Bose-Einstein condensates_](https://doi.org/10.1016/j.jcp.2021.110183), a joint work with Yongyong Cai (Beijing Normal University), has been accepted in _**Journal of Computational Physics**_.
 * (**23 Nov 2020**) Our paper [_Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates_](https://doi.org/10.1137/20M1328002), a joint work with Yongyong Cai (Beijing Normal University), has been accepted in _**SIAM Journal on Scientific Computing**_.
 * (**12 Oct 2020**) I am pleased to officially join the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn).
