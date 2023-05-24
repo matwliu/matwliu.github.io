@@ -10,7 +10,7 @@ Conferences to be Attended
 * **Invited Minisymposium Speaker**, [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 * **Invited Minisymposium Speaker**, [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 * **Invited Minisymposium Speaker**, [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
-* **Member of Organizing Committee**, Workshop on Modeling and Simulation for Materials Science, National University of Singapore, Singapore, June 8, 2023
+* **Member of Organizing Committee**, [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus), National University of Singapore, Singapore, June 8, 2023
 * [The 7th International Conference on Scientific Computing and Partial Differential Equations (SCPDE23)](https://www.polyu.edu.hk/ama/events/conference/SCPDE23/index.htm), The Hong Kong Polytechnic University, Hong Kong, China, May 22 -- 26, 2023
 
 
