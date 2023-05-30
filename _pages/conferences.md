@@ -11,7 +11,6 @@ Conferences to be Attended
 * **Invited Minisymposium Speaker**, [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 * **Invited Minisymposium Speaker**, [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
 * **Member of Organizing Committee**, [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus), National University of Singapore, Singapore, June 8, 2023
-* [The 7th International Conference on Scientific Computing and Partial Differential Equations (SCPDE23)](https://www.polyu.edu.hk/ama/events/conference/SCPDE23/index.htm), The Hong Kong Polytechnic University, Hong Kong, China, May 22 -- 26, 2023
 
 
 Invited Conference Talks
@@ -32,6 +31,7 @@ Invited Conference Talks
 
 Conferences Attended
 ------
+- [The 7th International Conference on Scientific Computing and Partial Differential Equations (SCPDE23)](https://www.polyu.edu.hk/ama/events/conference/SCPDE23/index.htm), The Hong Kong Polytechnic University, Hong Kong, China, May 22 -- 26, 2023
 - A one-month program on ["Multiscale Analysis and Methods for Quantum and Kinetic Problems"](https://ims.nus.edu.sg/events/qkp2023/), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 30 -- March 10, 2023
 - [International Congress of Mathematicians 2022 (Virtual ICM2022)](https://www.mathunion.org/icm/virtual-icm-2022), July 6 -- 14, 2022
 - International Conference on Applied Mathematics and Interdisciplinary Studies, CAMIS, South China Normal University, Guangzhou, China, November 13 -- 16, 2020
