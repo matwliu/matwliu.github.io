@@ -22,6 +22,7 @@ My research is at computational and applied mathematics with a main focus on sci
 
 News
 ======
+* (**25 June 2023**) Joint with Prof Weizhu Bao, we are organizing a one-day [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus) on 8 June 2023 (Thursday) at the Department of Mathematics at NUS.
 * (**04 May 2023**) It is my pleasure to be an invited speaker at the [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, 17 -- 19 May 2023.
 * (**17 Apr 2023**) I will give invited minisymposium talks at the [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org) (Waseda University, Tokyo, Japan, 20 -- 25 August 2023) and the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org) (Yonsei University, Seoul, Korea, 14 -- 18 August 2023).
 * (**15 Apr 2023**) I have been awarded the _**First Prize of Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software (2022)**_ for the paper "_Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates_" (published in [SIAM J. Sci. Comput., 2021, 43: B219–B242](https://doi.org/10.1137/20M1328002), joint with Yongyong Cai).
