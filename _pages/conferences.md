@@ -10,6 +10,7 @@ Conferences to be Attended
 * **Invited Minisymposium Speaker**, [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 * **Invited Minisymposium Speaker**, [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 * **Invited Minisymposium Speaker**, [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
+* Workshop on Scientific Computing, Sichuan University, Chengdu, China, June 26 -- 28, 2023
 
 
 
