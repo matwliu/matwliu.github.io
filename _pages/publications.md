@@ -78,7 +78,7 @@ author_profile: true
 1. **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, 
   [Convergence analysis of a spectral-Galerkin-type search extension method for finding multiple solutions to semilinear problems (in Chinese)](https://doi.org/10.1360/SCM-2019-0357),
   _**Sci. Sin. Math.**_, Vol. **51** (2021), pp. 1407--1431
-  (English version is available on [arXiv:2308.06529](https://arxiv.org/abs/2308.06529))
+  ([arXiv:2308.06529](https://arxiv.org/abs/2308.06529) for English version)
 {: reversed="reversed"}
 
 
