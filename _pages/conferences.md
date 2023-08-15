@@ -14,7 +14,7 @@ Conferences to be Attended
 Invited Conference Talks
 ------
 - Minisymposium "MS4 Numerical methods and analysis for dispersive PDEs", at the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
-- Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2021/CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
+- Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
 - [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, May 17 -- 19, 2023
 - Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials (20 – 24 February 2023), at the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 – 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
 - Minisymposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
