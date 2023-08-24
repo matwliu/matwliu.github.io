@@ -4,15 +4,16 @@ title: "Conferences"
 author_profile: true
 ---
 
-
+<!-- 
 Conferences to be Attended
 ------
-* **Invited Minisymposium Speaker**, [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
+-->
 
 
 
 Invited Conference Talks
 ------
+- Minisymposium "[00413] Numerical Methods for Dispersive PDEs and Applications", [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 - Minisymposium "MS4 Numerical methods and analysis for dispersive PDEs", at the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 - Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
 - [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, May 17 -- 19, 2023
