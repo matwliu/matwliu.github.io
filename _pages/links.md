@@ -8,6 +8,8 @@ author_profile: true
 * [MathSciNet](http://www.ams.org/mathscinet/)
 * [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287101)
 * [StackEdit](https://stackedit.io)
+* Python:
+  - [Matplotlib](https://matplotlib.org)
 * Tex tools:
   - [Tex FAQ](https://texfaq.org/#errors)
   - [Tables Generator](https://www.tablesgenerator.com)
