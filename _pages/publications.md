@@ -49,12 +49,12 @@ author_profile: true
   _**J. Comput. Math.**_, 2023, https://doi.org/10.4208/jcm.2301-m2022-0106 (arXiv:2109.01865)
 
 8. **Wei Liu**, Ziqing Xie, and Wenfan Yi*, 
-  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://link.springer.com/article/10.1007/s11425-021-2093-1), 
-  _**Sci. China Math.**_, 2023, https://doi.org/10.1007/s11425-021-2093-1 (arXiv:2108.05102) 
+  [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), 
+  _**Sci. China Math.**_, Vol. **66** (2023), pp. 2361--2384 (arXiv:2108.05102) 
 
 7. **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao,
   [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), 
-  _**SIAM J. Sci. Comput.**_, Vol. 45 (2023), pp. A397--A426 (arXiv:2203.06383)
+  _**SIAM J. Sci. Comput.**_, Vol. **45** (2023), pp. A397--A426 (arXiv:2203.06383)
 
 6. Haifan Chen, Guozhi Dong*, **Wei Liu**, and Ziqing Xie, 
   [Second-order flows for computing the ground states of rotating Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111872),
