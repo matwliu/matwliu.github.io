@@ -32,8 +32,8 @@ Preprints
 ======
 
 * **Wei Liu**, Chushan Wang*, and Xiaofei Zhao,
-  On action ground states of defocusing nonlinear Schrödinger equations,
-  submitted, 2023, [arXiv:2311.02890](https://arxiv.org/abs/2311.02890) [math.AP]
+  [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890),
+  submitted, 2023 (arXiv:2311.02890 [math.AP])
   <!-- _**SIAM J. Appl. Math.**_ -->
 
 
