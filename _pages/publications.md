@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Publications"
+title: "Publications of Wei Liu"
 permalink: /publications/
 author_profile: true
 
@@ -37,16 +37,16 @@ Preprints
   <!-- _**SIAM J. Appl. Math.**_ -->
 
 
-<!-- Peer Reviewed Papers
-====== -->
+Peer Reviewed Papers
+======
 
 
 <!-- Accepted
 ====== -->
 
 
-Published
-======
+<!-- Published
+====== -->
 
 9. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   [Nonmonotone local minimax methods for finding multiple saddle points](https://global-sci.org/intro/online/read?online_id=2012), 
