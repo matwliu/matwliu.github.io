@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Publications of Wei Liu"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 
@@ -28,9 +28,13 @@ author_profile: true
  -->
  
  
-<!-- Preprints
+Preprints
 ======
- -->
+
+* **Wei Liu**, Chushan Wang*, and Xiaofei Zhao,
+  On action ground states of defocusing nonlinear Schr\"odinger equations,
+  submitted, 2023, [arXiv:2311.02890](https://arxiv.org/abs/2311.02890) [math.AP]
+  <!-- _**SIAM J. Appl. Math.**_ -->
 
 
 <!-- Peer Reviewed Papers
@@ -41,8 +45,8 @@ author_profile: true
 ====== -->
 
 
-<!-- Published
-======  -->
+Published
+======
 
 9. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   [Nonmonotone local minimax methods for finding multiple saddle points](https://global-sci.org/intro/online/read?online_id=2012), 
