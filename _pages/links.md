@@ -14,6 +14,7 @@ author_profile: true
 * [Julia](https://julialang.org)
 * Tex tools:
   - [Tex FAQ](https://texfaq.org/#errors)
+  - [doi2bib.org](https://www.doi2bib.org)
   - [Tables Generator](https://www.tablesgenerator.com)
   - [CSV2LaTeXTable](http://tableconvert.com/csv-to-latex)
   - [Working Offline in Overleaf](https://www.overleaf.com/learn/how-to/Working_Offline_in_Overleaf)
