@@ -7,6 +7,7 @@ author_profile: true
 
 Conferences to be Attended
 ------
+- [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
 - Workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 -- February 2, 2024
 
 
