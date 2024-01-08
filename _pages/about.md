@@ -22,6 +22,8 @@ My research is at computational and applied mathematics with a main focus on sci
 
 News
 ======
+* (**20 Dec 2023**) I have been invited to be a minisymposium speaker at the [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 – 19, 2024
+* (**28 Nov 2023**) It is my pleasure to be an invited speaker at the workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 – February 2, 2024
 * (**25 May 2023**) Joint with Prof Weizhu Bao, we are organizing a one-day [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus) on 8 June 2023 (Thursday) at the Department of Mathematics at NUS.
 * (**04 May 2023**) It is my pleasure to be an invited speaker at the [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, 17 -- 19 May 2023.
 * (**17 Apr 2023**) I will give invited minisymposium talks at the [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org) (Waseda University, Tokyo, Japan, 20 -- 25 August 2023) and the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org) (Yonsei University, Seoul, Korea, 14 -- 18 August 2023).
