@@ -9,6 +9,7 @@ Conferences to be Attended
 ------
 - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
 - Workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 -- February 2, 2024
+- [IMS Young Mathematical Scientists Forum — Applied Mathematics](https://ims.nus.edu.sg/events/ims_forummath2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 8 -- 11, 2024
 
 
 
@@ -18,7 +19,7 @@ Invited Conference Talks
 - Minisymposium "MS4 Numerical methods and analysis for dispersive PDEs", at the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 - Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
 - [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, May 17 -- 19, 2023
-- Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials (20 – 24 February 2023), at the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 – 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
+- Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials (20 -- 24 February 2023), at the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 -- 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
 - Minisymposium on "Nonstandard Discretization Methods" (MS2), at the 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
 - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
 - Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22), at the 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020
