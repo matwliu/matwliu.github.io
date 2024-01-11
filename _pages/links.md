@@ -4,7 +4,7 @@ title: "Useful Links"
 author_profile: true
 ---
 
-* 国家自然科学基金委员会(https://www.nsfc.gov.cn)、科学基金网络信息系统登录平台(https://grants.nsfc.gov.cn)
+* 国家自然科学基金委员会 [https://www.nsfc.gov.cn](https://www.nsfc.gov.cn)、科学基金网络信息系统登录平台 [https://grants.nsfc.gov.cn](https://grants.nsfc.gov.cn)
   - [2024年度国家自然科学基金项目指南](https://www.nsfc.gov.cn/publish/portal0/tab1503/) (2024-01-11)
   - [关于2024年度国家自然科学基金项目申请与结题等有关事项的通告](https://www.nsfc.gov.cn/publish/portal0/tab434/info91506.htm) (2024-01-09)
   - [中国科学报：自然科学基金委公布多项改革措施](https://www.nsfc.gov.cn/publish/portal0/tab440/info91256.htm) (2023-12-20)
