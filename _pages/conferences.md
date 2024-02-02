@@ -8,12 +8,12 @@ author_profile: true
 Conferences to be Attended
 ------
 - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
-- Workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 -- February 2, 2024
 
 
 
 Invited Conference Talks
 ------
+- Workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 -- February 2, 2024
 - Minisymposium "[00413] Numerical Methods for Dispersive PDEs and Applications", [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 - Minisymposium "MS4 Numerical methods and analysis for dispersive PDEs", at the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
 - Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics", at the [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
