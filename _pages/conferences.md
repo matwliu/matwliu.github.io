@@ -7,7 +7,7 @@ author_profile: true
 
 Conferences to Attended
 ------
-- [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
+- Minisymposium on ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
 
 
 
