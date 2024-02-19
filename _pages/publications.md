@@ -31,6 +31,11 @@ author_profile: true
 Preprints
 ======
 
+* <!-- Haifan Chen, Guozhi Dong*, José A. Iglesias, **Wei Liu**, and Ziqing Xie, -->
+  Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes (with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie), submitted
+  <!-- _**Math. Models Methods Appl. Sci.**_ -->
+
+
 * <!-- **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, -->
   [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890) (with Chushan Wang and Xiaofei Zhao),
   submitted, arXiv:2311.02890 [math.AP]
