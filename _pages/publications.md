@@ -33,7 +33,7 @@ Preprints
 
 * <!-- Haifan Chen, Guozhi Dong*, José A. Iglesias, **Wei Liu**, and Ziqing Xie, -->
   [Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes](https://arxiv.org/abs/2402.12173)
-  (with Haifan Chen, Guozhi Dong, Jos\'e A. Iglesias and Ziqing Xie),
+  (with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie),
   submitted, arXiv:2402.12173 [math.NA]
   <!-- _**Math. Models Methods Appl. Sci.**_ -->
 
