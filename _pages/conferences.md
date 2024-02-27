@@ -10,6 +10,7 @@ Conferences to Attended
 - <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
   **Invited Minisymposium Speaker**, 
   [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
+- **Invited Spearker**, Workshop on Multi-physical Modelling and Simulations for Semi-conductor Devices, [Tianyuan Mathematical Research Center](http://tianyuan.amss.ac.cn), Kunming, China, March 31 -- April 6, 2024
 
 
 
