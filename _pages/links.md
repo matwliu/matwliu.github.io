@@ -22,7 +22,7 @@ author_profile: true
     - [中共中央办公厅 国务院办公厅印发《关于深化项目评审、人才评价、机构评估改革的意见》](https://www.gov.cn/zhengce/2018-07/03/content_5303251.htm) (2018-07-03) 【[科技部新闻通气会解读](https://www.gov.cn/zhengce/2018-07/06/content_5303921.htm)】【[拒绝“帽子多”、避免“一刀切”——三大焦点透视](https://www.gov.cn/zhengce/2018-07/05/content_5303885.htm)】
 -->
 
-* 中国数学会[《数学领域高质量科技期刊分级目录公告》](https://www.cms.org.cn/home/notices/notices_details/id/222.html)
+* 中国数学会[《数学领域高质量科技期刊分级目录公告》(2021-07-06)](https://www.cms.org.cn/home/notices/notices_details/id/222.html)
 * [MathSciNet](http://www.ams.org/mathscinet/)
 * [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287101)
 * [StackEdit](https://stackedit.io)
