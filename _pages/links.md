@@ -37,5 +37,6 @@ author_profile: true
   - [CSV2LaTeXTable](http://tableconvert.com/csv-to-latex)
   - [Working Offline in Overleaf](https://www.overleaf.com/learn/how-to/Working_Offline_in_Overleaf)
   - [Overleaf Gallery](https://www.overleaf.com/gallery)
+  - [Online BibTeX Tidy - Clean up BibTeX files](https://flamingtempura.github.io/bibtex-tidy)
 
 
