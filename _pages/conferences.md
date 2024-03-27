@@ -10,7 +10,6 @@ Conferences to Attended
 - <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
   **Invited Minisymposium Speaker**, 
   [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
-- **Invited Spearker**, Workshop on Multi-physical Modelling and Simulations for Semi-conductor Devices, [Tianyuan Mathematical Research Center](http://tianyuan.amss.ac.cn), Kunming, China, March 31 -- April 6, 2024
 
 
 
@@ -39,6 +38,7 @@ Conference/Workshop Organization
 
 Conferences Attended
 ------
+- Workshop on Multi-physical Modelling and Simulations for Semi-conductor Devices, [Tianyuan Mathematical Research Center](http://tianyuan.amss.ac.cn), Kunming, China, March 31 -- April 6, 2024
 - [IMS Young Mathematical Scientists Forum — Applied Mathematics](https://ims.nus.edu.sg/events/ims_forummath2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 8 -- 11, 2024
 - Workshop on Scientific Computing, Sichuan University, Chengdu, China, June 26 -- 28, 2023
 - [The 7th International Conference on Scientific Computing and Partial Differential Equations (SCPDE23)](https://www.polyu.edu.hk/ama/events/conference/SCPDE23/index.htm), The Hong Kong Polytechnic University, Hong Kong, China, May 22 -- 26, 2023
