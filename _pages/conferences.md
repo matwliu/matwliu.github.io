@@ -38,6 +38,7 @@ Conference/Workshop Organization
 
 Conferences Attended
 ------
+- 2024年微分方程数值方法及其应用青年学术研讨会, 湘潭大学, 2024年4月19 -- 21日
 - Workshop on Multi-physical Modelling and Simulations for Semi-conductor Devices, [Tianyuan Mathematical Research Center](http://tianyuan.amss.ac.cn), Kunming, China, March 31 -- April 6, 2024
 - [IMS Young Mathematical Scientists Forum — Applied Mathematics](https://ims.nus.edu.sg/events/ims_forummath2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 8 -- 11, 2024
 - Workshop on Scientific Computing, Sichuan University, Chengdu, China, June 26 -- 28, 2023
