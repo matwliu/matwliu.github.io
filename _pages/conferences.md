@@ -15,6 +15,7 @@ Conferences to Attended
 
 Invited Conference Talks
 ------
+- 2024年微分方程数值方法及其应用青年学术研讨会, 湘潭大学, 2024年4月19 -- 21日
 - Workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 -- February 2, 2024
 - Minisymposium "[00413] Numerical Methods for Dispersive PDEs and Applications", [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
 - Minisymposium "MS4 Numerical methods and analysis for dispersive PDEs", at the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
@@ -38,7 +39,7 @@ Conference/Workshop Organization
 
 Conferences Attended
 ------
-- 2024年微分方程数值方法及其应用青年学术研讨会, 湘潭大学, 2024年4月19 -- 21日
+- Workshop on Advanced Computational Methods, Kunming, China, April 4 -- 7, 2024
 - Workshop on Multi-physical Modelling and Simulations for Semi-conductor Devices, [Tianyuan Mathematical Research Center](http://tianyuan.amss.ac.cn), Kunming, China, March 31 -- April 6, 2024
 - [IMS Young Mathematical Scientists Forum — Applied Mathematics](https://ims.nus.edu.sg/events/ims_forummath2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 8 -- 11, 2024
 - Workshop on Scientific Computing, Sichuan University, Chengdu, China, June 26 -- 28, 2023
