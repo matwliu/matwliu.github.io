@@ -12,7 +12,7 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently a Research Associate in the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). 
+I am currently a Research Associate in the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU, I was a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg) and a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn).
 <!-- Before joining CityU, I was a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg) and a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn). -->
 
 
