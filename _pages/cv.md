@@ -35,10 +35,10 @@ Education
 
 Employment
 ======
-* **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), Hong Kong, April 2024 --- present
+* **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), April 2024 --- present
 <!-- <br>
   (Mentor: [Prof. Xiang Zhou](https://www.cityu.edu.hk/stfprofile/xizhou.htm)) -->
-* **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), Singapore, April 2023 --- April 2024
+* **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), April 2023 --- April 2024
 <!-- <br>
   (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
 * **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023
