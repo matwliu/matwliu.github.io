@@ -27,21 +27,25 @@ Email: wliu AT nus DOT edu DOT sg
 
 Education
 ======
-* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020 <br> 
-  (Advisor: [Prof. Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm)) 
+* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020
+<!-- <br> 
+  (Advisor: [Prof. Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm)) -->
 * **B.Sc.**, Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
 
 
 Employment
 ======
-* **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), Hong Kong, April 2024 --- present <br>
-  (Mentor: [Prof. Xiang Zhou](https://www.cityu.edu.hk/stfprofile/xizhou.htm))
-* **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), Singapore, April 2023 --- April 2024 <br>
-  (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
-* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023 <br>
+* **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), Hong Kong, April 2024 --- present
+<!-- <br>
+  (Mentor: [Prof. Xiang Zhou](https://www.cityu.edu.hk/stfprofile/xizhou.htm)) -->
+* **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), Singapore, April 2023 --- April 2024
+<!-- <br>
+  (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
+* **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023
   (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council (OCPC))
-* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, July 2020 --- March 2023 <br> 
-  (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/))
+* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, July 2020 --- March 2023
+<!-- <br> 
+  (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
 
 
 Research
