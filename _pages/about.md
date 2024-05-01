@@ -12,7 +12,8 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently a Research Associate in the [School of Data Science, City University of Hong Kong (CityU)](https://www.sdsc.cityu.edu.hk). Before joining CityU, I was a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg) and a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn).
+I am currently a Research Associate in the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). 
+<!-- Before joining CityU, I was a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg) and a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn). -->
 
 
 My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to nonlinear problems with applications in quantum physics and materials science. 
@@ -23,9 +24,12 @@ My research is at computational and applied mathematics with a main focus on sci
 News
 ======
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
-* (**25 Apr 2024**) I have moved to the [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk) as a **Research Associate**.
+* (**25 Apr 2024**) I have moved to the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a **Research Associate**.
+* (**15 Aor 2024**) Our paper _Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs_ (joint with Zhaoxing Chen, Ziqing Xie and Wenfan Yi) is available at http://arxiv.org/abs/2404.09892
+* (**19 Feb 2024**) Our paper _Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_ (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) is available at https://arxiv.org/abs/2402.12173
 * (**20 Dec 2023**) I have been invited to be a minisymposium speaker at the [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 – 19, 2024
 * (**28 Nov 2023**) It is my pleasure to be an invited speaker at the workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 – February 2, 2024
+* (**06 Nov 2023**) Our paper _On action ground states of defocusing nonlinear Schrödinger equations_, a joint work with Chushan Wang and Xiaofei Zhao, is available at https://arxiv.org/abs/2311.02890
 * (**25 May 2023**) Joint with Prof Weizhu Bao, we are organizing a one-day [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus) on 8 June 2023 (Thursday) at the Department of Mathematics at NUS.
 * (**04 May 2023**) It is my pleasure to be an invited speaker at the [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, 17 -- 19 May 2023.
 * (**17 Apr 2023**) I will give invited minisymposium talks at the [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org) (Waseda University, Tokyo, Japan, 20 -- 25 August 2023) and the [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org) (Yonsei University, Seoul, Korea, 14 -- 18 August 2023).
