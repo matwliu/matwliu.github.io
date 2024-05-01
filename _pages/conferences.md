@@ -7,6 +7,8 @@ author_profile: true
 
 Conferences to Attended
 ------
+- **Invited Minisymposium Speaker**, 
+  [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
 - <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
   **Invited Minisymposium Speaker**, 
   [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
