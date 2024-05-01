@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Liu"
   avatar           : "profile.png"
-  bio              : "Research Fellow, Math, NUS" # "Your biography for the left-hand sidebar"
-  location         : "Singapore" # "Location"
+  bio              : "Research Associate, CityU" # "Your biography for the left-hand sidebar"
+  location         : "Hong Kong" # "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en"
