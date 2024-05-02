@@ -43,7 +43,7 @@ Employment
   (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
 * **Visiting Scholar**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), February 2022 --- February 2023
   (supported by the International Postdoctoral Exchange Fellowship Program of the Office of China Postdoc Council)
-* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/), South China Normal University, July 2020 --- March 2023
+* **Postdoctoral Fellow**, [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS), South China Normal University](http://camis.scnu.edu.cn/), July 2020 --- March 2023
 <!-- <br> 
   (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
 
