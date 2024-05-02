@@ -12,7 +12,7 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently a Research Associate at the [School of Data Science](https://www.sdsc.cityu.edu.hk), [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU in April 2024, I worked as a postdoc at [National University of Singapore](https://nus.edu.sg) and [South China Normal University](https://www.scnu.edu.cn). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively.
+I am currently a Research Associate at the [School of Data Science](https://www.sdsc.cityu.edu.hk), [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU in April 2024, I worked as a postdoc at [National University of Singapore](https://nus.edu.sg) and [South China Normal University](https://www.scnu.edu.cn). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv).
 
 <!-- I am currently a Research Associate in the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU, I was a Research Fellow at [National University of Singapore (NUS)](https://nus.edu.sg) from April 2023 to April 2024 and a Postdoctoral Fellow at [South China Normal University (SCNU)](https://www.scnu.edu.cn) from July 2020 to March 2023 (including a one-year visiting position at NUS from February 2022 to February 2023, which was supported by the International Postdoctoral Exchange Fellowship Program). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn). -->
 
