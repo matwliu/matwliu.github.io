@@ -35,7 +35,7 @@ Invited Conference Talks
 
 Conference/Workshop Organization
 ------
-- **Co-organizer** (with Weizhu Bao), [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus), National University of Singapore, Singapore, June 8, 2023
+- **Co-organizer** (with [Prof Weizhu Bao](https://blog.nus.edu.sg/matbwz/)), [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus), National University of Singapore, Singapore, June 8, 2023
 
 
 
