@@ -27,7 +27,7 @@ My research is at computational and applied mathematics with a main focus on sci
 News
 ======
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
-* (**25 Apr 2024**) I have moved to the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a **Research Associate**.
+* (**25 Apr 2024**) I have moved to the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a **Research Associate**
 * (**15 Apr 2024**) Our paper [_Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs_](http://arxiv.org/abs/2404.09892) (joint with Zhaoxing Chen, Ziqing Xie and Wenfan Yi) is available at arXiv: [http://arxiv.org/abs/2404.09892](http://arxiv.org/abs/2404.09892)
 * (**19 Feb 2024**) Our paper [_Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_](https://arxiv.org/abs/2402.12173) (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) is available at arXiv: [https://arxiv.org/abs/2402.12173](https://arxiv.org/abs/2402.12173)
 * (**20 Dec 2023**) I have been invited to be a minisymposium speaker at the [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 – 19, 2024
