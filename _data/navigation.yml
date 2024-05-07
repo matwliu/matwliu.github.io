@@ -22,6 +22,8 @@ main:
   - title: "LINKS"
     url: /links/
 
+  - title: "Test"
+    url: /test/
     
 #   - title: "Portfolio"
 #     url: /portfolio/
