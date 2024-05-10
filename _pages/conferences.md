@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Conferences to Attended
+Conferences to be Attended
 ------
 - **Invited Minisymposium Speaker**, 
   [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
