@@ -5,6 +5,30 @@ author_profile: true
 ---
 
 
+
+Recent Conferences/Talks
+------
+
+- **Invited Minisymposium Speaker**, 
+  [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
+- <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
+  **Invited Minisymposium Speaker**, 
+  [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
+
+
+
+
+
+
+
+- [**List of Conferences**](https://matwliu.github.io/conference-list)
+
+
+
+
+
+<!-- 
+
 Conferences to be Attended
 ------
 - **Invited Minisymposium Speaker**, 
@@ -58,6 +82,10 @@ Conferences Attended
 - The 6th Workshop on Recent Advances on Spectral Methods and Related Applications, Changsha, China, May 13 -- 14, 2017
 - The 9th National Conference on Finite Element Methods, Emeishan, China, August 19 -- 22, 2016
 - The 8th International Congress on Industrial and Applied Mathematics (ICIAM2015), Beijing, China, August 10 -- 14, 2015
+
+ -->
+
+
 
 
 <!-- 
