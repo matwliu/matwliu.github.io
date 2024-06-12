@@ -20,14 +20,14 @@ Recent Invited Talks
 ------
 
 - Workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 -- February 2, 2024
-- **Minisymposium Speaker**, [10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
-- **Minisymposium Speaker**, [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
-- **Minisymposium Speaker**, [13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
-- [EASIAM workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, May 17 -- 19, 2023
-- Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials (20 -- 24 February 2023), in the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/) (30 January 2023 -- 10 March 2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 23, 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
-- **Minisymposium Speaker**, 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021
+- [The 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023 (**Minisymposium Talk**)
+- [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023 (**Minisymposium Talk**)
+- [The 13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023 (**Minisymposium Talk**)
+- [EASIAM Workshop on Applied and Computational Mathematics](https://sites.google.com/view/easiam2023workshop), National University of Singapore, Singapore, May 17 -- 19, 2023
+- Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials, in the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/), Institute for Mathematical Sciences, National University of Singapore, Singapore, 20 -- 24 February 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
+- The 10th National Conference on Finite Element Methods, Urumqi, China, July 25 -- 28, 2021 (**Minisymposium Talk**)
 - Workshop on "Modern Numerics for Quantum Mechanics and Related Problems", Sichuan University, Chengdu, China, July 20 -- 22, 2021
-- **Minisymposium Speaker**, 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020
+- The 18th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2020), Changsha, China, October 29 -- November 1, 2020 (**Minisymposium Talk**)
 
 
 Conference/Workshop Organization
