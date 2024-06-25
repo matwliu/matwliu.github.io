@@ -24,6 +24,7 @@ author_profile: true
 
 * 中国数学会[《数学领域高质量科技期刊分级目录公告》(2021-07-06)](https://www.cms.org.cn/home/notices/notices_details/id/222.html)
 * [MathSciNet](http://www.ams.org/mathscinet/)
+* [CAM-Digest](http://www.math.hkbu.edu.hk/cam-digest-html/), [NA-Digest](http://www.netlib.org/na-digest-html/)
 * [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287101)
 * [StackEdit](https://stackedit.io)
 * [Python](https://www.python.org):
