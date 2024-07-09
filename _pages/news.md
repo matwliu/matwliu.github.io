@@ -12,6 +12,7 @@ author_profile: true
 2024:
 ------
 
+* (**11 Jun 2024**) I have been invited to deliver a talk in an [international workshop](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf) organized by the Department of Mathematics, The Chinese University of Hong Kong, July 11 -- 12 2024.
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024.
 * (**25 Apr 2024**) I have moved to the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a **Research Associate**.
 * (**15 Apr 2024**) Our paper [_Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs_](http://arxiv.org/abs/2404.09892) (joint with Zhaoxing Chen, Ziqing Xie and Wenfan Yi) is available at arXiv: [http://arxiv.org/abs/2404.09892](http://arxiv.org/abs/2404.09892).
