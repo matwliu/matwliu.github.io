@@ -11,10 +11,6 @@ Conferences to be Attended
 
 - **Invited Minisymposium Speaker**, 
   [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
-- **Invited Minisymposium Speaker**, 
-  <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
-  [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
-- **Invited Speaker**, [Workshop on Scientific Computing and Data Science](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf), The Chinese University of Hong Kong, Hong Kong, July 11 -- 12, 2024
 
 
 Conferences Attended
@@ -22,6 +18,10 @@ Conferences Attended
 
 
 * **2020--2024:**
+  - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
+    - **Invited Minisymposium Speaker**, Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion''
+    - **Poster**
+  - **Invited Speaker**, [Workshop on Scientific Computing and Data Science](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf), The Chinese University of Hong Kong, Hong Kong, July 11 -- 12, 2024
   - [International Conference on Applied Mathematics 2024](https://www.cityu.edu.hk/rcms/icam2024), City University of Hong Kong, May 28 -- Jun 1, 2024
   - **Invited Speaker**, 2024 Youth Workshop on Numerical Methods for Differential Equations and Their Applications, [Xiangtan University](https://math.xtu.edu.cn), April 19 -- 21, 2024 <!-- 2024年微分方程数值方法及其应用青年学术研讨会, 湘潭大学, 2024年4月19 -- 21日 -->
   - Workshop on Advanced Computational Methods, Kunming, China, April 4 -- 7, 2024
@@ -30,6 +30,7 @@ Conferences Attended
   - [IMS Young Mathematical Scientists Forum — Applied Mathematics](https://ims.nus.edu.sg/events/ims_forummath2023), Institute for Mathematical Sciences, National University of Singapore, Singapore, January 8 -- 11, 2024
   - [The 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023
     - **Invited Minisymposium Speaker**, Minisymposium "[00413] Numerical Methods for Dispersive PDEs and Applications"
+    - **Poster**
   - [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023
     - **Invited Minisymposium Speaker**, Minisymposium "MS4 Numerical methods and analysis for dispersive PDEs"
   - [The 13th Annual Meeting of the Chinese Computational Mathematics (CSCM2023)](http://cscm2021.com), Nanjing, China, July 15 -- 19, 2023
