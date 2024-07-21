@@ -18,6 +18,7 @@ Conferences Attended
 
 
 * **2020--2024:**
+  - [Workshop on Structure-preserving Numerical Methods and Their Applications](https://events.polyu.edu.hk/spnm/home), The Hong Kong Polytechnic University, Hong Kong, July 20 -- 24, 2024
   - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
     - **Invited Minisymposium Speaker**, Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion''
     - **Poster**
