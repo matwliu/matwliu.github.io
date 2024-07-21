@@ -23,7 +23,7 @@ Conferences Attended
     - **Invited Minisymposium Speaker**, Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion''
     - **Poster**
   - **Invited Speaker**, [Workshop on Scientific Computing and Data Science](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf), The Chinese University of Hong Kong, Hong Kong, July 11 -- 12, 2024
-  - [International Conference on Applied Mathematics 2024](https://www.cityu.edu.hk/rcms/icam2024), City University of Hong Kong, May 28 -- Jun 1, 2024
+  - [International Conference on Applied Mathematics 2024](https://www.cityu.edu.hk/rcms/icam2024), City University of Hong Kong, Hong Kong, May 28 -- Jun 1, 2024
   - **Invited Speaker**, 2024 Youth Workshop on Numerical Methods for Differential Equations and Their Applications, [Xiangtan University](https://math.xtu.edu.cn), April 19 -- 21, 2024 <!-- 2024年微分方程数值方法及其应用青年学术研讨会, 湘潭大学, 2024年4月19 -- 21日 -->
   - Workshop on Advanced Computational Methods, Kunming, China, April 4 -- 7, 2024
   - Workshop on Multi-physical Modelling and Simulations for Semi-conductor Devices, [Tianyuan Mathematical Research Center](http://tianyuan.amss.ac.cn), Kunming, China, March 31 -- April 6, 2024
