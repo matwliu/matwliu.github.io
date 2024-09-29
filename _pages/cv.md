@@ -11,11 +11,19 @@ author_profile: true
 
 <!-- **Wei Liu** <br> -->
 
+
+
+
+Associate Professor <br>
+Department of Mathematics, National University of Defense Technology
+
+
+
+<!-- 
 Research Associate <br>
 School of Data Science, City University of Hong Kong <br>
 16/F, Lau Ming Wai Academic Building, 83 Tat Chee Avenue, Kowloon Tong, Hong Kong
-
-
+-->
 
 <!-- 
 Research Fellow <br>
@@ -35,7 +43,8 @@ Education
 
 Employment
 ======
-* **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), April 2024 --- present
+* **Associate Professor**, Department of Mathematics, [National University of Defense Technology](https://english.nudt.edu.cn/), September 2024 --- present
+* **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), April 2024 --- July 2024
 <!-- <br>
   (Mentor: [Prof. Xiang Zhou](https://www.cityu.edu.hk/stfprofile/xizhou.htm)) -->
 * **Research Fellow**, [Department of Mathematics, National University of Singapore](https://www.math.nus.edu.sg), April 2023 --- April 2024
