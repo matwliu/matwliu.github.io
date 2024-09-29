@@ -13,7 +13,7 @@ redirect_from:
 <!-- ====== -->
 
 
-I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in September 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv).
+I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in September 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv).
 
 
 <!-- I am currently a Research Associate at the [School of Data Science](https://www.sdsc.cityu.edu.hk), [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU in April 2024, I worked as a postdoc at [National University of Singapore](https://nus.edu.sg) and [South China Normal University](https://www.scnu.edu.cn). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv). -->
