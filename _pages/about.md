@@ -12,7 +12,11 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently a Research Associate at the [School of Data Science](https://www.sdsc.cityu.edu.hk), [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU in April 2024, I worked as a postdoc at [National University of Singapore](https://nus.edu.sg) and [South China Normal University](https://www.scnu.edu.cn). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv).
+
+I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in September 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv).
+
+
+<!-- I am currently a Research Associate at the [School of Data Science](https://www.sdsc.cityu.edu.hk), [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU in April 2024, I worked as a postdoc at [National University of Singapore](https://nus.edu.sg) and [South China Normal University](https://www.scnu.edu.cn). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv). -->
 
 <!-- I am currently a Research Associate in the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU, I was a Research Fellow at [National University of Singapore (NUS)](https://nus.edu.sg) from April 2023 to April 2024 and a Postdoctoral Fellow at [South China Normal University (SCNU)](https://www.scnu.edu.cn) from July 2020 to March 2023 (including a one-year visiting position at NUS from February 2022 to February 2023, which was supported by the International Postdoctoral Exchange Fellowship Program). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn). -->
 
@@ -26,6 +30,7 @@ My research is at computational and applied mathematics with a main focus on sci
 
 News
 ======
+* (**15 Sep 2024**) I am excited to start my new position as an **Associate Professor** in the Department of Mathematics at [National University of Defense Technology](https://english.nudt.edu.cn/).
 * (**11 Jun 2024**) I have been invited to deliver a talk in an [international workshop](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf) organized by the Department of Mathematics, The Chinese University of Hong Kong, July 11 -- 12 2024.
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024.
 * (**25 Apr 2024**) I have moved to the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a **Research Associate**.
