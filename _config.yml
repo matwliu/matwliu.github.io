@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Liu"
   avatar           : "profile.png"
-  bio              : "Research Associate, CityU" # "Your biography for the left-hand sidebar"
-  location         : "Hong Kong" # "Location"
+  bio              : "Associate Professor, NUDT" # "Your biography for the left-hand sidebar"
+  location         : "Changsha, Hunan, China" # "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=boygCawAAAAJ&hl=en"
