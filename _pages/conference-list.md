@@ -5,19 +5,30 @@ author_profile: true
 ---
 
 
-
+<!--
 Conferences to be Attended
 ------
 
-- **Invited Minisymposium Speaker**, 
-  [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
+- 
+-->
 
 
+
+<!--
 Conferences Attended
 ------
+-->
+
+
+<!-- * **2025--2029:** -->
+
+
+<!-- * **2020--2024:** -->
 
 
 * **2020--2024:**
+  - [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024
+    - **Invited Minisymposium Speaker**, Minisymposium on "Numerical Methods for Saddle Point Solutions of Nonlinear Partial Differential Equations and Related Problems" (TM48)
   - [Workshop on Structure-preserving Numerical Methods and Their Applications](https://events.polyu.edu.hk/spnm/home), The Hong Kong Polytechnic University, Hong Kong, July 20 -- 24, 2024
   - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024
     - **Invited Minisymposium Speaker**, Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion''
@@ -51,7 +62,7 @@ Conferences Attended
     - **Invited Minisymposium Speaker**, Minisymposium on "Mathematical Models, Computational Methods and Applications in Quantum Mechanics" (TM22)
 
 
-* **2019 and before:**
+* **2015--2019:**
   - Workshop 2: Modeling and Simulation for Quantum Condensation, Fluids and Information, in _A Thematic Program on "Quantum and Kinetic Problems: Modeling, Analysis, Numerics and Applications" (September 30, 2019 -- March 31, 2020)_, Institute for Mathematical Sciences, National University of Singapore, Singapore, November 18 -- 22, 2019
   - The 17th Annual Meeting of the China Society for Industrial and Applied Mathematics (CSIAM2019), Foshan, China, September 19 -- 22, 2019
     - **Invited Minisymposium Speaker**, Minisymposium on "Computations of Multiple Solutions for Nonlinear Problems and Their Applications" (TM13)
