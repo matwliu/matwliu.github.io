@@ -33,6 +33,13 @@ author_profile: true
 Preprints
 ======
 
+* <!--  **Wei Liu**, Zhenye Wen, Yongjun Yuan, and Xiaofei Zhao*, -->
+  Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison
+  (with Zhenye Wen, Yongjun Yuan and Xiaofei Zhao),
+  submitted, 2024
+  <!-- _**J. Comput. Phys.**_ -->
+
+
 * <!--  Zhaoxing Chen, Wei Liu, Ziqing Xie*, Wenfan Yi, -->
   [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892)
   (with Zhaoxing Chen, Ziqing Xie and Wenfan Yi),
@@ -44,13 +51,8 @@ Preprints
   [Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes](https://arxiv.org/abs/2402.12173)
   (with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie),
   submitted, arXiv:2402.12173 [math.NA]
-  <!-- _**Numer. Math.**_ -->
+  <!-- _**SIAM J. Sci. Comput.**_ -->
 
-
-* <!-- **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, -->
-  [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890) (with Chushan Wang and Xiaofei Zhao),
-  submitted, arXiv:2311.02890 [math.AP]
-  <!-- _**Math. Models Methods Appl. Sci.**_ -->
 
 
 Peer Reviewed Papers
@@ -63,6 +65,12 @@ Peer Reviewed Papers
 
 <!-- Published
 ====== -->
+
+
+10. * **Wei Liu**, Chushan Wang, and Xiaofei Zhao, 
+  On action ground states of defocusing nonlinear Schrödinger equations,
+  _**Math. Models Methods Appl. Sci.**_, Accepted (14-Nov-2024)
+  <!-- arXiv:2311.02890 [math.AP] -->
 
 9. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   [Nonmonotone local minimax methods for finding multiple saddle points](https://doi.org/10.4208/jcm.2301-m2022-0106), 
