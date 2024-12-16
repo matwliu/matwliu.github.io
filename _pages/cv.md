@@ -13,7 +13,6 @@ author_profile: true
 
 
 
-
 Associate Professor <br>
 Department of Mathematics, National University of Defense Technology
 
@@ -58,23 +57,33 @@ Employment
 
 
 
-Research
+Research Area
 ======
+* Computational and Applied Mathematics, Scientific Computing
+* Numerical Methods for Partial Differential Equations (PDEs)
+* Nonconvex Variational Problems, Multiple Solutions of Nonlinear PDEs
+* Computational Quantum Physics, Bose-Einstein Condensation
+* Nonlinear Schrödinger Equations, Nonlinear Dispersive PDEs
+
 <!-- * **Research Area**: Computational and Applied Mathematics, Scientific Computing, Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems, Nonlinear Dispersive PDEs, Bose-Einstein Condensation, Computational Quantum Physics -->
-* **Research Area**: Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Computational Quantum Physics, Bose-Einstein Condensation, Nonlinear Dispersive PDEs
-* **Representative Publications**:
-  - **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242 (A First-Class Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software)
-  - **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao, [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), _**SIAM Journal on Scientific Computing**_, Vol. **45** (2023), pp. A397--A426
-  - **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), _**Journal of Computational Physics**_, Vol. **473** (2023), article 111719
-  - **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Science China Mathematics**_, Vol. **66** (2023), pp. 2361--2384
-  - **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890), _**Mathematical Models and Methods in Applied Sciences**_, (2024), accepted
-* [Full Publication List](https://matwliu.github.io/publications/)
+<!-- * **Research Area**: Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Computational Quantum Physics, Bose-Einstein Condensation, Nonlinear Dispersive PDEs -->
 
 <!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
 <!-- * Computational and Applied Mathematics, Computational Quantum Physics -->
 <!-- * Numerical PDEs, Applied Analysis, Scientific Computing -->
 <!-- * Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems -->
 <!-- * Bose-Einstein Condensation, Nonlinear Dispersive PDEs  -->
+
+
+Representative Publications
+======
+* **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242 (A First-Class Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software)
+* **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao, [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), _**SIAM Journal on Scientific Computing**_, Vol. **45** (2023), pp. A397--A426
+* **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), _**Journal of Computational Physics**_, Vol. **473** (2023), article 111719
+* **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Science China Mathematics**_, Vol. **66** (2023), pp. 2361--2384
+* **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890), _**Mathematical Models and Methods in Applied Sciences**_, (2024), accepted
+
+[Full Publication List](https://matwliu.github.io/publications/)
 
 
 
@@ -102,6 +111,32 @@ Awards
 * Second Prize in China Undergraduate Mathematical Contest in Modeling, 2012
 
 
+Invited Talks
+======
+* [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024 (Minisymposium Talk & Poster) <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
+* [Workshop on Scientific Computing and Data Science](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf), The Chinese University of Hong Kong, Hong Kong, July 11 -- 12, 2024
+* [The 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023 (Minisymposium Talk  & Poster)
+* [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023 (Minisymposium Talk)
+* Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials, in the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/), Institute for Mathematical Sciences, National University of Singapore, Singapore, 20 -- 24 February 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
+
+[List of Past Conferences](https://matwliu.github.io/conference-list)
+
+
+Professional Services
+======
+
+**Referee for:**
+
+* Communications in Mathematical Sciences
+* Acta Mathematica Scientia (English & Chinese)
+* Applied Numerical Mathematics
+* Physical Review E
+* Mathematics and Computers in Simulation
+
+**Conference Organization:**
+
+* **Co-organizer** (with Weizhu Bao), Workshop on Modeling and Simulation for Materials Science, National University of Singapore, Singapore, June 8, 2023
+
 
 
 <!--   
@@ -112,7 +147,6 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
