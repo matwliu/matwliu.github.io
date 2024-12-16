@@ -67,7 +67,7 @@ Peer Reviewed Papers
 ====== -->
 
 
-10. **Wei Liu**, Chushan Wang, and Xiaofei Zhao, 
+10. **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, 
   [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890),
   _**Math. Models Methods Appl. Sci.**_, accepted, 2024 (arXiv:2311.02890)
   <!-- arXiv:2311.02890 [math.AP] -->
