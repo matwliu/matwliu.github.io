@@ -57,6 +57,7 @@ Employment
   (Mentor: [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/)) -->
 
 
+
 Research
 ======
 <!-- * **Research Area**: Computational and Applied Mathematics, Scientific Computing, Numerical Methods for PDEs, Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems, Nonlinear Dispersive PDEs, Bose-Einstein Condensation, Computational Quantum Physics -->
@@ -65,8 +66,8 @@ Research
   - **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242
   - **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao, [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), _**SIAM Journal on Scientific Computing**_, Vol. **45** (2023), pp. A397--A426
   - **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), _**Journal of Computational Physics**_, Vol. **473** (2023), article 111719
-  - **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Sci. China Math.**_, Vol. **66** (2023), pp. 2361--2384
-  - **Wei Liu**, Chushan Wang, and Xiaofei Zhao, [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890), _**Mathematical Models and Methods in Applied Sciences**_, (2024), accepted
+  - **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Science China Mathematics**_, Vol. **66** (2023), pp. 2361--2384
+  - **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, [On action ground states of defocusing nonlinear Schrödinger equations](https://arxiv.org/abs/2311.02890), _**Mathematical Models and Methods in Applied Sciences**_, (2024), accepted
 * [Full Publication List](https://matwliu.github.io/publications/)
 
 <!-- Computational quantum physics, Bose-Einstein condensation, Nonlinear dispersive PDEs, Numerical methods for PDEs, Multiple solutions of nonlinear PDEs -->
@@ -74,6 +75,21 @@ Research
 <!-- * Numerical PDEs, Applied Analysis, Scientific Computing -->
 <!-- * Multiple Solutions of Nonlinear PDEs, Nonconvex Variational Problems -->
 <!-- * Bose-Einstein Condensation, Nonlinear Dispersive PDEs  -->
+
+
+
+Grants
+======
+* **(Talent Plan)** International Postdoctoral Exchange Fellowship Program, No. PC2021024, 2021
+* **Principal Investigator**, National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024
+* **Principal Investigator**, Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024
+* **Participant**, National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie) 
+* **Participant**, National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan)
+
+<!-- _The study on regularized numerical methods for nonlinear partial differential equations with singular term_ -->
+<!-- _Mathematical theory and numerical methods for quantum droplets_ -->
+<!-- _The study on two types of novel methods for solving multiple solutions of nonlinear PDEs and their applications_ -->
+<!-- _The study of efficient numerical methods to simulate ground states and dynamics of general spinor Bose-Einstein condensates_ -->
 
 
 Awards
@@ -84,22 +100,6 @@ Awards
 * National Scholarship for Graduate Students, 2015
 * First Prize in National College Student Mathematics Contest (Hunan Division), 2013
 * Second Prize in China Undergraduate Mathematical Contest in Modeling, 2012
-
-
-Grants
-======
-* **Principal Investigator**. International Postdoctoral Exchange Fellowship Program, No. PC2021024, 2021
-* **Principal Investigator**. National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024
-* **Principal Investigator**. Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024
-<!-- * **Participant**. National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie) -->
-<!-- * **Participant**. National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan) -->
-
-<!-- _The study on regularized numerical methods for nonlinear partial differential equations with singular term_ -->
-<!-- _Mathematical theory and numerical methods for quantum droplets_ -->
-<!-- _The study on two types of novel methods for solving multiple solutions of nonlinear PDEs and their applications_ -->
-<!-- _The study of efficient numerical methods to simulate ground states and dynamics of general spinor Bose-Einstein condensates_ -->
-
-
 
 
 
