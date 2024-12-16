@@ -12,8 +12,10 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
+I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to solve nonlinear problems with applications in quantum physics and materials science. For more details please refer to my [CV](https://matwliu.github.io/cv).
 
-I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in September 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv).
+
+<!-- I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in September 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv). -->
 
 
 <!-- I am currently a Research Associate at the [School of Data Science](https://www.sdsc.cityu.edu.hk), [City University of Hong Kong (CityU)](https://www.cityu.edu.hk). Before joining CityU in April 2024, I worked as a postdoc at [National University of Singapore](https://nus.edu.sg) and [South China Normal University](https://www.scnu.edu.cn). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv). -->
@@ -23,13 +25,14 @@ I am currently an Associate Professor in the Department of Mathematics at [Natio
 <!-- Before joining CityU, I was a Research Fellow in the [Department of Mathematics](https://www.math.nus.edu.sg) at [National University of Singapore (NUS)](https://nus.edu.sg) and a Postdoctoral Fellow in the [South China Research Center for Applied Mathematics and Interdisciplinary Studies (CAMIS)](http://camis.scnu.edu.cn/) at [South China Normal University](https://www.scnu.edu.cn). I received my PhD in 2020 and my BSc in 2014 from [Hunan Normal University](https://www.hunnu.edu.cn). -->
 
 
-My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to solve nonlinear problems with applications in quantum physics and materials science. 
+<!-- My research is at computational and applied mathematics with a main focus on scientific computing and numerical analysis. I am interested in combining analysis, partial differential equations, dynamical systems, algorithm design, numerical analysis and optimization techniques to solve nonlinear problems with applications in quantum physics and materials science.  -->
 
 <!-- My recent research topics include (i) finding multiple saddle points for nonconvex functionals involving nonlinear partial differential equations, and (ii) computing stationary states of Bose-Einstein condensates based on nonlinear Schrödinger/Gross-Pitaevskii equations.  -->
 
 
 News
 ======
+* (**14 Nov 2024**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://arxiv.org/abs/2311.02890), a joint work with Dr. Chushan Wang and Prof. Xiaofei Zhao, has been accepted in _**Mathematical Models and Methods in Applied Sciences**_.
 * (**15 Sep 2024**) I am excited to start my new position as an **Associate Professor** in the Department of Mathematics at [National University of Defense Technology](https://english.nudt.edu.cn/).
 * (**11 Jun 2024**) I have been invited to deliver a talk in an [international workshop](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf) organized by the Department of Mathematics, The Chinese University of Hong Kong, July 11 -- 12 2024.
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024.
@@ -38,7 +41,6 @@ News
 * (**19 Feb 2024**) Our paper [_Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_](https://arxiv.org/abs/2402.12173) (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) is available at arXiv: [https://arxiv.org/abs/2402.12173](https://arxiv.org/abs/2402.12173).
 * (**20 Dec 2023**) I have been invited to be a minisymposium speaker at the [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 – 19, 2024.
 * (**28 Nov 2023**) It is my pleasure to be an invited speaker at the workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 – February 2, 2024.
-* (**06 Nov 2023**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://arxiv.org/abs/2311.02890), a joint work with Chushan Wang and Xiaofei Zhao, is available at arXiv: [https://arxiv.org/abs/2311.02890](https://arxiv.org/abs/2311.02890).
 
 * [and more](https://matwliu.github.io/news/)
 
