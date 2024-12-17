@@ -22,7 +22,7 @@ author_profile: true
 -->
 
 * [高质量科技期刊分级目录总汇第四版发布公告(2024-12-13)](https://www.cast.org.cn/xkx/xw/tzgg/kjcx/art/2024/art_832237629.html), [数学领域高质量科技期刊分级目录公告(2024版)](https://www.cms.org.cn/Home/notices/notices_details/id/1240.html), [数学领域高质量科技期刊分级目录公告(2021-07-06)](https://www.cms.org.cn/home/notices/notices_details/id/222.html)
-* [MathSciNet](http://www.ams.org/mathscinet/), [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287101), [CAM-Digest](https://www.polyu.edu.hk/ama/CAM/cam-net/), [NA-Digest](http://www.netlib.org/na-digest-html/)
+* [MathSciNet](http://www.ams.org/mathscinet/), [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287101), [CAM-Digest](https://www.polyu.edu.hk/ama/CAM/cam-net/), [NA-Digest](https://na-digest.coecis.cornell.edu/na-digest-html/)
 * [StackEdit](https://stackedit.io)
 * [Python](https://www.python.org):
   - [Matplotlib](https://matplotlib.org)
