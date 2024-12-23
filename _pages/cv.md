@@ -121,7 +121,7 @@ Invited Talks
 
 [List of Past Conferences](https://matwliu.github.io/conference-list)
 
-
+<!-- 
 Professional Services
 ======
 
@@ -136,7 +136,7 @@ Professional Services
 **Conference Organization:**
 
 * **Co-organizer** (with Weizhu Bao), Workshop on Modeling and Simulation for Materials Science, National University of Singapore, Singapore, June 8, 2023
-
+-->
 
 
 <!--   
