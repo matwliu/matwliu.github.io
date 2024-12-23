@@ -32,7 +32,7 @@ I am currently an Associate Professor in the Department of Mathematics at [Natio
 
 News
 ======
-* (**14 Nov 2024**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://arxiv.org/abs/2311.02890), a joint work with Dr. Chushan Wang and Prof. Xiaofei Zhao, has been accepted in _**Mathematical Models and Methods in Applied Sciences**_.
+* (**14 Nov 2024**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://doi.org/10.1142/S0218202525500022), a joint work with Dr. Chushan Wang and Prof. Xiaofei Zhao, has been accepted in _**Mathematical Models and Methods in Applied Sciences**_.
 * (**15 Sep 2024**) I am excited to start my new position as an **Associate Professor** in the Department of Mathematics at [National University of Defense Technology](https://english.nudt.edu.cn/).
 * (**11 Jun 2024**) I have been invited to deliver a talk in an [international workshop](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf) organized by the Department of Mathematics, The Chinese University of Hong Kong, July 11 -- 12 2024.
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024.
