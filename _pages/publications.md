@@ -47,11 +47,7 @@ Preprints
   <!-- _**SIAM J. Sci. Comput.**_ -->
 
 
-* <!-- Haifan Chen, Guozhi Dong*, José A. Iglesias, **Wei Liu**, and Ziqing Xie, -->
-  [Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes](https://arxiv.org/abs/2402.12173)
-  (with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie),
-  submitted, arXiv:2402.12173 [math.NA]
-  <!-- _**SIAM J. Sci. Comput.**_ -->
+
 
 
 
@@ -66,10 +62,14 @@ Peer Reviewed Papers
 <!-- Published
 ====== -->
 
+11. Haifan Chen, Guozhi Dong*, José A. Iglesias, **Wei Liu**, and Ziqing Xie, 
+  [Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes](https://arxiv.org/abs/2402.12173),
+  _**SIAM Journal on Scientific Computing**_, accepted (Jan 2025)
+  <!-- arXiv:2402.12173 [math.NA] -->
 
 10. **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, 
   [On action ground states of defocusing nonlinear Schrödinger equations](https://doi.org/10.1142/S0218202525500022),
-  _**Mathematical Models and Methods in Applied Sciences**_, accepted (2024), doi:[10.1142/S0218202525500022](https://doi.org/10.1142/S0218202525500022) (arXiv:2311.02890)
+  _**Mathematical Models and Methods in Applied Sciences**_, (2025), doi:[10.1142/S0218202525500022](https://doi.org/10.1142/S0218202525500022) (arXiv:2311.02890)
   <!-- arXiv:2311.02890 [math.AP] -->
 
 9. **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
