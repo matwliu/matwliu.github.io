@@ -9,6 +9,12 @@ author_profile: true
 
 
 
+2025:
+------
+
+* (**13 Jan 2025**) Our paper [_Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_](https://arxiv.org/abs/2402.12173) (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) has been accepted in _**SIAM Journal on Scientific Computing**_.
+
+
 2024:
 ------
 
