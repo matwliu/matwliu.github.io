@@ -81,7 +81,7 @@ Representative Publications
 * **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao, [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), _**SIAM Journal on Scientific Computing**_, Vol. **45** (2023), pp. A397--A426
 * **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), _**Journal of Computational Physics**_, Vol. **473** (2023), article 111719
 * **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Science China Mathematics**_, Vol. **66** (2023), pp. 2361--2384
-* **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, [On action ground states of defocusing nonlinear Schrödinger equations](https://doi.org/10.1142/S0218202525500022), _**Mathematical Models and Methods in Applied Sciences**_, Vol. 35 (2025), pp. 39--74
+* **Wei Liu**, Chushan Wang*, and Xiaofei Zhao, [On action ground states of defocusing nonlinear Schrödinger equations](https://doi.org/10.1142/S0218202525500022), _**Mathematical Models and Methods in Applied Sciences**_, Vol. **35** (2025), pp. 39--74
 
 [Full Publication List](https://matwliu.github.io/publications/)
 
