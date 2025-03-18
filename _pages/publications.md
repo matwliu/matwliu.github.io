@@ -40,14 +40,6 @@ Preprints
   <!-- _**J. Comput. Phys.**_ -->
 
 
-* <!--  Zhaoxing Chen, Wei Liu, Ziqing Xie*, Wenfan Yi, -->
-  [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892)
-  (with Zhaoxing Chen, Ziqing Xie and Wenfan Yi),
-  submitted, arXiv:2404.09892 [math.NA]
-  <!-- _**SIAM J. Sci. Comput.**_ -->
-
-
-
 
 
 
@@ -61,6 +53,13 @@ Peer Reviewed Papers
 
 <!-- Published
 ====== -->
+
+
+12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, Wenfan Yi, 
+  [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892),
+   _**SIAM Journal on Scientific Computing**_, accepted (Mar 2025)
+  <!-- arXiv:2404.09892 [math.NA] -->
+  <!-- _**SIAM J. Sci. Comput.**_ -->
 
 11. Haifan Chen, Guozhi Dong*, José A. Iglesias, **Wei Liu**, and Ziqing Xie, 
   [Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes](https://arxiv.org/abs/2402.12173),
