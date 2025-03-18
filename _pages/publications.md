@@ -57,7 +57,7 @@ Peer Reviewed Papers
 
 12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, Wenfan Yi, 
   [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892),
-   _**SIAM Journal on Scientific Computing**_, accepted (Mar 2025)
+   _**SIAM Journal on Scientific Computing**_, accepted (Mar 2025) [[code](https://github.com/ChenZhaoXing-HUNNU/Nehari-manifold-optimization-method)]
   <!-- arXiv:2404.09892 [math.NA] -->
   <!-- _**SIAM J. Sci. Comput.**_ -->
 
