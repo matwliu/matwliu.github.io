@@ -32,16 +32,13 @@ I am currently an Associate Professor in the Department of Mathematics at [Natio
 
 News
 ======
+* (**18 Mar 2025**) Our paper [_Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs_](http://arxiv.org/abs/2404.09892) (joint with Zhaoxing Chen, Ziqing Xie and Wenfan Yi) has been accepted in _**SIAM Journal on Scientific Computing**_.
 * (**13 Jan 2025**) Our paper [_Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_](https://arxiv.org/abs/2402.12173) (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) has been accepted in _**SIAM Journal on Scientific Computing**_.
 * (**09 Dec 2024**) I have been invited to deliver a talk at [School of Mathematics and Statistics, Central South University](https://math.csu.edu.cn/).
 * (**14 Nov 2024**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://doi.org/10.1142/S0218202525500022), a joint work with Dr. Chushan Wang and Prof. Xiaofei Zhao, has been accepted in _**Mathematical Models and Methods in Applied Sciences**_.
 * (**15 Sep 2024**) I am excited to start my new position as an **Associate Professor** in the Department of Mathematics at [National University of Defense Technology](https://english.nudt.edu.cn/).
 * (**11 Jun 2024**) I have been invited to deliver a talk in an [international workshop](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf) organized by the Department of Mathematics, The Chinese University of Hong Kong, July 11 -- 12 2024.
 * (**01 May 2024**) I have been invited to be a minisymposium speaker at the [22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024.
-* (**25 Apr 2024**) I have moved to the [School of Data Science](https://www.sdsc.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a **Research Associate**.
-* (**15 Apr 2024**) Our paper [_Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs_](http://arxiv.org/abs/2404.09892) (joint with Zhaoxing Chen, Ziqing Xie and Wenfan Yi) is available at arXiv: [http://arxiv.org/abs/2404.09892](http://arxiv.org/abs/2404.09892).
-* (**20 Dec 2023**) I have been invited to be a minisymposium speaker at the [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 – 19, 2024.
-* (**28 Nov 2023**) It is my pleasure to be an invited speaker at the workshop on [High Order Numerical Methods for PDEs in Applied Sciences](http://www.tsimf.cn/meeting/detail?id=315), Tsinghua Sanya International Mathematics Forum (TSIMF), Sanya, China, January 29 – February 2, 2024.
 
 * [and more](https://matwliu.github.io/news/)
 
