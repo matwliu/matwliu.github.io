@@ -33,6 +33,7 @@ I am currently an Associate Professor in the Department of Mathematics at [Natio
 News
 ======
 * (**18 Mar 2025**) Our paper [_Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs_](http://arxiv.org/abs/2404.09892) (joint with Zhaoxing Chen, Ziqing Xie and Wenfan Yi) has been accepted in _**SIAM Journal on Scientific Computing**_.
+* (**14 Mar 2025**) I will deliver a talk at [School of Mathematical Sciences, Beijing Normal University](https://math.bnu.edu.cn/), Beijing, 22 March 2025 ([link](https://math.bnu.edu.cn/xzbg/ztbg/ea7e22bddcab45e99db14aa79fc5e976.htm)).
 * (**13 Jan 2025**) Our paper [_Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_](https://arxiv.org/abs/2402.12173) (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) has been accepted in _**SIAM Journal on Scientific Computing**_.
 * (**09 Dec 2024**) I have been invited to deliver a talk at [School of Mathematics and Statistics, Central South University](https://math.csu.edu.cn/).
 * (**14 Nov 2024**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://doi.org/10.1142/S0218202525500022), a joint work with Dr. Chushan Wang and Prof. Xiaofei Zhao, has been accepted in _**Mathematical Models and Methods in Applied Sciences**_.
