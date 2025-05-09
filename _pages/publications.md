@@ -62,7 +62,7 @@ Peer Reviewed Papers
   <!-- _**SIAM J. Sci. Comput.**_ -->
 
 11. Haifan Chen, Guozhi Dong*, José A. Iglesias, **Wei Liu**, and Ziqing Xie, 
-  [Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes](https://doi.org/10.1137/24M1681409),
+  [Second-order flows for approaching stationary points of a class of nonconvex energies via convex-splitting schemes](https://doi.org/10.1137/24M1681409),
   _**SIAM Journal on Scientific Computing**_, Vol. **47** (2025), pp. A1604--A1627 (arXiv:2402.12173)
   <!-- arXiv:2402.12173 [math.NA] -->
 
