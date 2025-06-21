@@ -9,12 +9,9 @@ author_profile: true
 
 Conferences to Attend
 ------
-* [The 23rd Annual Conference of CSIAM](https://meeting.csiam.org.cn/#/2025/)  
-  *October 23 -- 26, 2025 | Changsha, Hunan Province, China*
-* **Minisymposium Speaker**, [The 2025 Academic Annual Meeting of the Chinese Mathematical Society (CMS)](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html)  
-  *October 16 -- 20, 2025 | Binzhou, Shandong Province, China*
-* **Minisymposium Speaker**, [The 14th Annual Conference of Computational Mathematics of CMS](https://s.31url.cn/6jvCOvWj)  
-  *August 17 -- 21, 2025 | Changsha, Hunan Province, China*
+* [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
+* **Minisymposium Speaker**, [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html), Binzhou, Shandong Province, China, October 16 -- 20, 2025
+* **Minisymposium Speaker**, [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025
 
 
 <!--
