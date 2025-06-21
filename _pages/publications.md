@@ -30,21 +30,13 @@ author_profile: true
  -->
  
  
-Preprints
-======
-
-* <!--  **Wei Liu**, Zhenye Wen, Yongjun Yuan, and Xiaofei Zhao*, -->
-  Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison
-  (with Zhenye Wen, Yongjun Yuan and Xiaofei Zhao),
-  submitted, 2024
-  <!-- _**J. Comput. Phys.**_ -->
+<!-- Preprints
+====== -->
 
 
 
-
-
-Peer Reviewed Papers
-======
+<!-- Peer Reviewed Papers
+======  -->
 
 
 <!-- Accepted
@@ -54,6 +46,11 @@ Peer Reviewed Papers
 <!-- Published
 ====== -->
 
+
+13. **Wei Liu**, Zhenye Wen, Yongjun Yuan, and Xiaofei Zhao*, 
+  Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison,
+  _**Journal of Computational Physics**_, accepted (Jun 2025)
+  <!-- _**J. Comput. Phys.**_ -->
 
 12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, Wenfan Yi, 
   [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892),
