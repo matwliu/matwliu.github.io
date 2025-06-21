@@ -49,7 +49,7 @@ author_profile: true
 
 13. **Wei Liu**, Zhenye Wen, Yongjun Yuan, and Xiaofei Zhao*, 
   Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison,
-  _**Journal of Computational Physics**_, accepted (Jun 2025)
+  _**Journal of Computational Physics**_, accepted (Jun 2025) [[code](https://github.com/wzhy0777/Rotating-NLS)]
   <!-- _**J. Comput. Phys.**_ -->
 
 12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, Wenfan Yi, 
