@@ -34,10 +34,10 @@ Email: wliu AT nus DOT edu DOT sg
 
 Education
 ======
-* **Ph.D.**, Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020
+* **Ph.D.** in Computational Mathematics, [Hunan Normal University](https://www.hunnu.edu.cn), 2020
 <!-- <br> 
   (Advisor: [Prof. Ziqing Xie](https://mc.hunnu.edu.cn/info/1665/4995.htm)) -->
-* **B.Sc.**, Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
+* **B.Sc.** in Information and Computational Science, [Hunan Normal University](https://www.hunnu.edu.cn), 2014
 
 
 Employment
@@ -77,7 +77,8 @@ Research Area
 
 Representative Publications
 ======
-* **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242 (A First-Class Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software)
+* **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242  
+  *(A First-Class Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software, 2022)*
 * **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao, [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), _**SIAM Journal on Scientific Computing**_, Vol. **45** (2023), pp. A397--A426
 * **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), _**Journal of Computational Physics**_, Vol. **473** (2023), article 111719
 * **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Science China Mathematics**_, Vol. **66** (2023), pp. 2361--2384
@@ -117,7 +118,7 @@ Invited Talks
 * [Workshop on Scientific Computing and Data Science](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf), The Chinese University of Hong Kong, Hong Kong, July 11 -- 12, 2024
 * [The 10th International Congress on Industrial and Applied Mathematics (ICIAM2023)](https://iciam2023.org), Waseda University, Tokyo, Japan, August 20 -- 25, 2023 (Minisymposium Talk  & Poster)
 * [International Conference on Spectral and High Order Methods (ICOSAHOM2023)](http://www.icosahom2023.org), Yonsei University, Seoul, Korea, August 14 -- 18, 2023 (Minisymposium Talk)
-* Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials, in the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/), Institute for Mathematical Sciences, National University of Singapore, Singapore, 20 -- 24 February 2023 ([slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf), [video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8))
+* Workshop 2: Multiscale methods and analysis for dispersive PDEs and applications to quantum materials, in the program on [“Multiscale Analysis and Methods for Quantum and Kinetic Problems”](https://ims.nus.edu.sg/events/qkp2023/), Institute for Mathematical Sciences, National University of Singapore, Singapore, February 20 -- 24, 2023 [[slides](https://ims.nus.edu.sg/wp-content/uploads/2023/03/Wei-Liu.pdf)] [[video](https://mediaweb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=ca7e564c-c1b4-45a9-bb13-b028005715a8)]
 
 [List of Past Conferences](https://matwliu.github.io/conference-list)
 
