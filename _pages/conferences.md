@@ -6,10 +6,14 @@ author_profile: true
 
 
 
-<!--
-Upcoming Conferences
-------
 
+Conferences to Attend
+------
+* [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html), Binzhou, Shandong Province, China, October 16 - 20
+* [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 – 21, 2025
+
+
+<!--
 - **Invited Minisymposium Speaker**, ...
 -->
 
