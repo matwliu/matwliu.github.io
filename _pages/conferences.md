@@ -9,11 +9,11 @@ author_profile: true
 
 Conferences to Attend
 ------
-* [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/)
+* [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/)  
   *October 23--26, 2025 | Changsha, Hunan*
-* [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html)
+* [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html)  
   *October 16--20, 2025 | Binzhou, Shandong*
-* [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj)
+* [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj)  
   *August 17--21, 2025 | Changsha, Hunan*
 
 
