@@ -49,12 +49,12 @@ author_profile: true
 
 13. **Wei Liu**, Zhenye Wen, Yongjun Yuan, and Xiaofei Zhao, 
   [Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison](https://doi.org/10.1016/j.jcp.2025.114193),
-  _**Journal of Computational Physics**_ (2025), doi:[10.1016/j.jcp.2025.114193](https://doi.org/10.1016/j.jcp.2025.114193) [[code](https://github.com/wzhy0777/Rotating-NLS)]
+  _**Journal of Computational Physics**_, (2025), in press [[code](https://github.com/wzhy0777/Rotating-NLS)]
   <!-- _**J. Comput. Phys.**_ -->
 
-12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, Wenfan Yi, 
+12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
   [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892),
-   _**SIAM Journal on Scientific Computing**_, accepted (Mar 2025) [[code](https://github.com/ChenZhaoXing-HUNNU/Nehari-manifold-optimization-method)]
+   _**SIAM Journal on Scientific Computing**_, (2025), in press [[code](https://github.com/ChenZhaoXing-HUNNU/Nehari-manifold-optimization-method)]
   <!-- arXiv:2404.09892 [math.NA] -->
   <!-- _**SIAM J. Sci. Comput.**_ -->
 
