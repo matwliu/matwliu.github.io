@@ -77,7 +77,8 @@ Research Area
 
 Representative Publications
 ======
-* **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242 _(A First-Class Youth Excellent Paper of Hunan Society of Computational Mathematics and Application Software, 2022)_
+* **Wei Liu** and Yongyong Cai*, [Normalized gradient flow with Lagrange multiplier for computing ground states of Bose-Einstein condensates](https://doi.org/10.1137/20M1328002), _**SIAM Journal on Scientific Computing**_, Vol. **43** (2021), pp. B219--B242
+  _This paper was recognized as a **First-Class Youth Excellent Paper** by Hunan Society of Computational Mathematics and Application Software in 2022._
 * **Wei Liu**, Yongjun Yuan*, and Xiaofei Zhao, [Computing the action ground state for the rotating nonlinear Schrödinger equation](https://doi.org/10.1137/22M148416X), _**SIAM Journal on Scientific Computing**_, Vol. **45** (2023), pp. A397--A426
 * **Wei Liu**, Ziqing Xie, and Yongjun Yuan*, [A constrained gentlest ascent dynamics and its applications to finding excited states of Bose-Einstein condensates](https://doi.org/10.1016/j.jcp.2022.111719), _**Journal of Computational Physics**_, Vol. **473** (2023), article 111719
 * **Wei Liu**, Ziqing Xie, and Wenfan Yi*, [Normalized Wolfe-Powell-type local minimax method for finding multiple unstable solutions of nonlinear elliptic PDEs](https://www.sciengine.com/SCM/doi/10.1007/s11425-021-2093-1), _**Science China Mathematics**_, Vol. **66** (2023), pp. 2361--2384
