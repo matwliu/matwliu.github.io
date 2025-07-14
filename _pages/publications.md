@@ -53,8 +53,8 @@ author_profile: true
   <!-- _**J. Comput. Phys.**_ -->
 
 12. Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, and Wenfan Yi, 
-  [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://arxiv.org/abs/2404.09892),
-   _**SIAM Journal on Scientific Computing**_, (2025), in press [[code](https://github.com/ChenZhaoXing-HUNNU/Nehari-manifold-optimization-method)]
+  [Nehari manifold optimization and its application for finding unstable solutions of semilinear elliptic PDEs](https://doi.org/10.1137/24M165329X),
+   _**SIAM Journal on Scientific Computing**_, Vol. **47** (2025), pp. A2098--A2126 (arXiv:2404.09892) [[code](https://github.com/ChenZhaoXing-HUNNU/Nehari-manifold-optimization-method)]
   <!-- arXiv:2404.09892 [math.NA] -->
   <!-- _**SIAM J. Sci. Comput.**_ -->
 
