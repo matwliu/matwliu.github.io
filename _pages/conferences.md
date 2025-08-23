@@ -9,9 +9,9 @@ author_profile: true
 
 Conferences to Attend
 ------
-* [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
+* **Minisymposium Speaker**, [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
 * **Minisymposium Speaker**, [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html), Binzhou, Shandong Province, China, October 16 -- 20, 2025
-* **Minisymposium Speaker**, [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025
+
 
 
 <!--
@@ -22,6 +22,7 @@ Conferences to Attend
 Recent Invited Talks
 ------
 
+- [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025 (Minisymposium Talks) <!-- M14 & M52 -->
 - [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024 (Minisymposium Talk)
 - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024 (Minisymposium Talk & Poster) <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
 - [Workshop on Scientific Computing and Data Science](https://www.math.cuhk.edu.hk/sites/default/files/research/workshop_on_scientific_computing_and_data_science.pdf), The Chinese University of Hong Kong, Hong Kong, July 11 -- 12, 2024
