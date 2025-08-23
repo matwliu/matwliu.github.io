@@ -23,7 +23,10 @@ Conferences Attended
 <!-- * **2025--2029:** -->
 
 
-<!-- * **2020--2024:** -->
+* **2025--present:**
+  - [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025
+    - **Invited Minisymposium Speaker**, M14 (复杂耦合非线性约束的保结构数值方法), M52 (非线性多解问题及其数值算法)
+
 
 
 * **2020--2024:**
