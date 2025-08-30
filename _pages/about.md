@@ -12,7 +12,7 @@ redirect_from:
 <!-- About Me -->
 <!-- ====== -->
 
-I am currently an Associate Professor in the Department of Mathematics at the [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. My research lies in computational and applied mathematics, focusing primarily on scientific computing and numerical methods for partial differential equations. For more details please refer to my [CV](https://matwliu.github.io/cv).
+I am currently an Associate Professor in the College of Science in [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. My research lies in computational and applied mathematics, focusing primarily on scientific computing and numerical methods for partial differential equations. For more details please refer to my [CV](https://matwliu.github.io/cv).
 
 
 <!-- I am currently an Associate Professor in the Department of Mathematics at [National University of Defense Technology (NUDT)](https://english.nudt.edu.cn/). Before joining NUDT in September 2024, I worked as a postdoc at [South China Normal University](https://www.scnu.edu.cn), [National University of Singapore](https://nus.edu.sg) and [City University of Hong Kong](https://www.cityu.edu.hk). I received my PhD and BSc from [Hunan Normal University](https://www.hunnu.edu.cn) in 2020 and 2014 respectively. For more details please refer to my [CV](https://matwliu.github.io/cv). -->
@@ -32,7 +32,7 @@ I am currently an Associate Professor in the Department of Mathematics at the [N
 
 News
 ======
-* (**27 Aug 2025**) I receive the National Natural Science Foundation of China, No. 12571448.
+* (**27 Aug 2025**) I receive funding from the **National Natural Science Foundation of China (NSFC)**, No. 12571448.
 * (**21 Aug 2025**) I will deliver a minisymposium talk at [the 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, October 23--26, 2025.
 * (**20 Jun 2025**) Our paper [_Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison_](https://doi.org/10.1016/j.jcp.2025.114193) (joint with Zhenye Wen, Yongjun Yuan and Xiaofei Zhao) has been accepted in _**Journal of Computational Physics**_.
 * (**06 Jun 2025**) I will deliver presentations at minisymposia in two conferences: [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj) (Changsha, August 17--21, 2025) and [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1296.html) (Binzhou, Shandong Province, October 16--20, 2025).
