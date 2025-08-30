@@ -14,7 +14,7 @@ author_profile: true
 
 
 Associate Professor <br>
-Department of Mathematics, National University of Defense Technology
+College of Science, National University of Defense Technology
 
 
 
@@ -42,7 +42,7 @@ Education
 
 Employment
 ======
-* **Associate Professor**, Department of Mathematics, [National University of Defense Technology](https://english.nudt.edu.cn/), September 2024 --- present
+* **Associate Professor**, College of Science, [National University of Defense Technology](https://english.nudt.edu.cn/), September 2024 --- present
 * **Research Associate**, [School of Data Science, City University of Hong Kong](https://www.sdsc.cityu.edu.hk/), April 2024 --- July 2024
 <!-- <br>
   (Mentor: [Prof. Xiang Zhou](https://www.cityu.edu.hk/stfprofile/xizhou.htm)) -->
