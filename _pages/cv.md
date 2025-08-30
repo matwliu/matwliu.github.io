@@ -90,9 +90,10 @@ Representative Publications
 
 Funding
 ======
-* International Postdoctoral Exchange Fellowship Program, No. PC2021024, 2021
+* **Principal Investigator**, National Natural Science Foundation of China, No. 12571448, January 2026 --- December 2029
 * **Principal Investigator**, National Natural Science Foundation of China, No. 12101252, January 2022 --- December 2024
 * **Principal Investigator**, Guangdong Basic and Applied Basic Research Foundation, No. 2022A1515010351, January 2022 --- December 2024
+* **Principal Investigator**, International Postdoctoral Exchange Fellowship Program, No. PC2021024, 2021
 * **Participant**, National Natural Science Foundation of China, No. 12171148, January 2022 --- December 2025 (PI: Ziqing Xie) 
 * **Participant**, National Natural Science Foundation of China, No. 11971007, January 2020 --- December 2023 (PI: Yongjun Yuan)
 
