@@ -9,8 +9,8 @@ author_profile: true
 
 Conferences to Attend
 ------
-* **Minisymposium Speaker**, [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
-* **Minisymposium Speaker**, [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1343.html), Binzhou, Shandong Province, China, October 16 -- 20, 2025
+* **Academic Presentation**, The 2025 Annual Meeting of the Hunan Mathematical Society, Xiangtan, Hunan Province, China, December 5 -- 7, 2025.
+
 
 
 
@@ -22,6 +22,8 @@ Conferences to Attend
 Recent Invited Talks
 ------
 
+- [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025 (Minisymposium Talk)
+- [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1343.html), Binzhou, Shandong Province, China, October 16 -- 20, 2025 (Minisymposium Talk)
 - [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025 (Minisymposium Talks) <!-- M14 & M52 -->
 - [The 22nd Annual Meeting of China Society for Industrial and Applied Mathematics (CSIAM2024)](https://meeting.csiam.org.cn/#/2024), Nanjing, China, October 24 -- 27, 2024 (Minisymposium Talk)
 - [International Conference on Scientific Computation and Differential Equations (SciCADE2024)](https://www.scicade2024.org), National University of Singapore, Singapore, July 15 -- 19, 2024 (Minisymposium Talk & Poster) <!-- Minisymposium ``MS04 Communication of Structure-preserving Techniques for Computing Diffusion and Dispersion'', at the -->
