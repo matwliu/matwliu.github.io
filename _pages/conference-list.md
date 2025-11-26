@@ -25,7 +25,7 @@ Conferences Attended
 
 * **2025--present:**
   - **Invited Speaker**, [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=724), Xiangtan, Hunan Province, China, December 5 -- 7, 2025
-  - [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
+  - [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
     - **Invited Minisymposium Speaker**, TM49 谱方法前沿进展
   - [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1343.html), Binzhou, Shandong Province, China, October 16 -- 20, 2025
     - **Invited Minisymposium Speaker**, D. 计算数学
