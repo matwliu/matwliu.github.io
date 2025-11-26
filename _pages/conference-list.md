@@ -31,7 +31,7 @@ Conferences Attended
     - **Invited Minisymposium Speaker**, D. 计算数学
   - [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025
     - **Invited Minisymposium Speaker**, M14 (复杂耦合非线性约束的保结构数值方法), M52 (非线性多解问题及其数值算法)
-  - **Academic Presentation**, [School of Mathematical Sciences, Beijing Normal University](https://math.bnu.edu.cn/), Beijing, 22 March 2025 ([link](https://math.bnu.edu.cn/xzbg/ztbg/ea7e22bddcab45e99db14aa79fc5e976.htm)).
+  - **Invited Academic Presentation**, [School of Mathematical Sciences, Beijing Normal University](https://math.bnu.edu.cn/xzbg/ztbg/ea7e22bddcab45e99db14aa79fc5e976.htm), Beijing, March 22, 2025
 
 
 
