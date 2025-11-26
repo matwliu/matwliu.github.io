@@ -32,6 +32,7 @@ I am currently an Associate Professor in the College of Science in [National Uni
 
 News
 ======
+* (**24 Nov 2025**) I will deliver an academic presentation at [the 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=724), Xiangtan, December 5--7, 2025.
 * (**27 Aug 2025**) I receive funding from the **National Natural Science Foundation of China**, No. 12571448.
 * (**21 Aug 2025**) I will deliver a minisymposium talk at [the 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, October 23--26, 2025.
 * (**20 Jun 2025**) Our paper [_Computing defocusing action ground state of rotating nonlinear Schrödinger equation: methods via various formulations and comparison_](https://doi.org/10.1016/j.jcp.2025.114193) (joint with Zhenye Wen, Yongjun Yuan and Xiaofei Zhao) has been accepted in _**Journal of Computational Physics**_.
