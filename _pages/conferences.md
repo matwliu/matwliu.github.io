@@ -9,7 +9,7 @@ author_profile: true
 
 Conferences to Attend
 ------
-* **Invited Speaker**, [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=724), Xiangtan, Hunan Province, China, December 5 -- 7, 2025
+* **Invited Minisymposium Speaker**, [SS155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155), [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026.
 
 
 
@@ -21,6 +21,7 @@ Conferences to Attend
 Recent Invited Talks
 ------
 
+- [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=740), Xiangtan, Hunan Province, China, December 5 -- 7, 2025 (Invited Talk)
 - [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025 (Minisymposium Talk)
 - [The 2025 Academic Annual Meeting of the Chinese Mathematical Society](https://www.cms.org.cn/Home/notices/notices_details/id/1343.html), Binzhou, Shandong Province, China, October 16 -- 20, 2025 (Minisymposium Talk)
 - [The 14th Annual Conference of Computational Mathematics of the Chinese Mathematical Society](https://s.31url.cn/6jvCOvWj), Changsha, China, August 17 -- 21, 2025 (Minisymposium Talks) <!-- M14 & M52 -->
