@@ -22,14 +22,13 @@ Conferences Attended
 
 <!-- * **2025--2029:** -->
 
-
-* **2025--present:**
-
 <!--
   - [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026
     - **Invited Minisymposium Speaker**, [Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155).
 -->
 
+
+* **2025--present:**
   - **Invited Speaker**, [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=740), Xiangtan, Hunan Province, China, December 5 -- 7, 2025
   - [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
     - **Invited Minisymposium Speaker**, TM49 谱方法前沿进展
