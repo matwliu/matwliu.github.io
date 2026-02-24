@@ -32,7 +32,7 @@ author_profile: true
  
 Preprints
 ======
-* Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schr\"odinger equation (with Tingfeng Wang and Xiaofei Zhao), submitted
+* Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation (with Tingfeng Wang and Xiaofei Zhao), submitted
 
 
 
