@@ -30,8 +30,9 @@ author_profile: true
  -->
  
  
-<!-- Preprints
-====== -->
+Preprints
+======
+* Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schr\"odinger equation (with Tingfeng Wang and Xiaofei Zhao), submitted
 
 
 
@@ -43,8 +44,8 @@ author_profile: true
 ====== -->
 
 
-<!-- Published
-====== -->
+Published
+======
 
 
 13. **Wei Liu**, Zhenye Wen*, Yongjun Yuan, and Xiaofei Zhao, 
