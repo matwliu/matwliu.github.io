@@ -9,8 +9,9 @@ author_profile: true
 
 Conferences to Attend
 ------
-* **Invited Minisymposium Speaker**, [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155)).
 
+* **Invited Minisymposium Speaker**, [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155)).
+* Workshop on Numerical Methods for Variational Problems and Optimal Control of Partial Differential Equations, Changsha, March 8--10, 2026
 
 
 <!--
