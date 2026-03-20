@@ -32,7 +32,8 @@ author_profile: true
  
 Preprints
 ======
-* [Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation](https://arxiv.org/abs/2602.20820) (with Tingfeng Wang and Xiaofei Zhao), submitted, [arXiv:2602.20820](https://arxiv.org/abs/2602.20820) [math.NA]
+* Efficient Nehari manifold optimization algorithms for computing ground state solutions of nonlinear elliptic systems (with Zhaoxing Chen, Ziqing Xie, and Wenfan Yi), submitted
+* [Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation](https://arxiv.org/abs/2602.20820) (with Tingfeng Wang, and Xiaofei Zhao), submitted, [arXiv:2602.20820](https://arxiv.org/abs/2602.20820) [math.NA]
 
 
 
