@@ -32,8 +32,9 @@ author_profile: true
  
 Preprints
 ======
-* [Efficient Nehari manifold optimization algorithms for computing ground state solutions of nonlinear elliptic systems](https://arxiv.org/abs/2603.20859) (with Zhaoxing Chen, Ziqing Xie, and Wenfan Yi), submitted, [arXiv:2603.20859](https://arxiv.org/abs/2603.20859) [math.NA]
-* [Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation](https://arxiv.org/abs/2602.20820) (with Tingfeng Wang and Xiaofei Zhao), submitted, [arXiv:2602.20820](https://arxiv.org/abs/2602.20820) [math.NA]
+* [Ground-state solution of quantum droplets in Bose-Bose mixtures](https://arxiv.org/abs/2604.00889) (with Limin Xu), submitted, [arXiv:2604.00889](https://arxiv.org/abs/2604.00889)
+* [Efficient Nehari manifold optimization algorithms for computing ground state solutions of nonlinear elliptic systems](https://arxiv.org/abs/2603.20859) (with Zhaoxing Chen, Ziqing Xie, and Wenfan Yi), submitted, [arXiv:2603.20859](https://arxiv.org/abs/2603.20859)
+* [Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation](https://arxiv.org/abs/2602.20820) (with Tingfeng Wang and Xiaofei Zhao), submitted, [arXiv:2602.20820](https://arxiv.org/abs/2602.20820)
 
 
 
