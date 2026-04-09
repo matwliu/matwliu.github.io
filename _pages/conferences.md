@@ -11,6 +11,7 @@ Conferences to Attend
 ------
 
 * **Invited Minisymposium Speaker**, [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155))
+* The 10th Conference on Spectral Methods and Their Applications, Shanghai, May 22--25, 2026
 * Workshop on Scientific Computing, Sichuan University, Chengdu, April 24--26, 2026
 
 
