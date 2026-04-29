@@ -29,6 +29,8 @@ Conferences Attended
 
 
 * **2025--present:**
+  - Workshop on 2026 Scientific Computing and Its Applications, Sichuan University, Chengdu, April 24--26, 2026
+  - **Invited Speaker**, Workshop on Numerical Methods for Variational Problems and Optimal Control of Partial Differential Equations, Central South University, Changsha, March 8--10, 2026
   - **Invited Speaker**, [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=740), Xiangtan, Hunan Province, China, December 5 -- 7, 2025
   - [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025
     - **Invited Minisymposium Speaker**, TM49 谱方法前沿进展
