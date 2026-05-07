@@ -32,6 +32,10 @@ I am currently an Associate Professor in the College of Science in [National Uni
 
 News
 ======
+* (**06 May 2026**) Our paper [_Analysis of gradient flow for computing defocusing action ground states of rotating nonlinear Schrödinger equations_](https://arxiv.org/abs/2605.04485) (with Tingfeng Wang, Yongjun Yuan, and Xiaofei Zhao) is available at [**arXiv:2605.04485**](https://arxiv.org/abs/2605.04485).
+* (**01 Apr 2026**) Our paper [_Ground-state solution of quantum droplets in Bose-Bose mixtures_](https://arxiv.org/abs/2604.00889) (with Limin Xu) is available at [**arXiv:2604.00889**](https://arxiv.org/abs/2604.00889).
+* (**21 Mar 2026**) Our paper [_Efficient Nehari manifold optimization algorithms for computing ground state solutions of nonlinear elliptic systems_](https://arxiv.org/abs/2603.20859) (with Zhaoxing Chen, Ziqing Xie, and Wenfan Yi) is available at [**arXiv:2603.20859**](https://arxiv.org/abs/2603.20859).
+* (**24 Feb 2026**) Our paper [_Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation_](https://arxiv.org/abs/2602.20820) (with Tingfeng Wang and Xiaofei Zhao) is available at [**arXiv:2602.20820**](https://arxiv.org/abs/2602.20820).
 * (**24 Nov 2025**) I will deliver an academic presentation at [the 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=724), Xiangtan, December 5--7, 2025.
 * (**27 Aug 2025**) I receive funding from the **National Natural Science Foundation of China**, No. 12571448.
 * (**21 Aug 2025**) I will deliver a minisymposium talk at [the 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, October 23--26, 2025.
@@ -42,7 +46,7 @@ News
 * (**13 Jan 2025**) Our paper [_Second-order flows for approaching stationary points of a class of non-convex energies via convex-splitting schemes_](https://doi.org/10.1137/24M1681409) (joint with Haifan Chen, Guozhi Dong, José A. Iglesias and Ziqing Xie) has been accepted in _**SIAM Journal on Scientific Computing**_.
 * (**09 Dec 2024**) I have been invited to deliver a talk at [School of Mathematics and Statistics, Central South University](https://math.csu.edu.cn/).
 * (**14 Nov 2024**) Our paper [_On action ground states of defocusing nonlinear Schrödinger equations_](https://doi.org/10.1142/S0218202525500022), a joint work with Dr. Chushan Wang and Prof. Xiaofei Zhao, has been accepted in _**Mathematical Models and Methods in Applied Sciences**_.
-* (**15 Sep 2024**) I am excited to start my new position as an **Associate Professor** in the College of Science, [National University of Defense Technology](https://english.nudt.edu.cn/).
+* (**15 Sep 2024**) I am excited to start my new position as an **Associate Professor** in the College of Science in [National University of Defense Technology](https://english.nudt.edu.cn/).
 
 
 * [and more](https://matwliu.github.io/news/)
