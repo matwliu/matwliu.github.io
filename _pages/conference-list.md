@@ -29,6 +29,7 @@ Conferences Attended
 
 
 * **2025--present:**
+  - [The 10th Conference on Spectral Methods and Their Applications](https://csiam.org.cn/1422/202604/2714.html), Shanghai, May 22--25, 2026
   - Workshop on 2026 Scientific Computing and Its Applications, Sichuan University, Chengdu, April 24--26, 2026
   - **Invited Speaker**, Workshop on Numerical Methods for Variational Problems and Optimal Control of Partial Differential Equations, Central South University, Changsha, March 8--10, 2026
   - **Invited Speaker**, [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=740), Xiangtan, Hunan Province, China, December 5 -- 7, 2025
