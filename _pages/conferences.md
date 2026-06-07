@@ -11,7 +11,7 @@ Conferences to Attend
 ------
 
 * **Invited Minisymposium Speaker**, [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155))
-* The 10th Conference on Spectral Methods and Their Applications, Shanghai, May 22--25, 2026
+
 
 
 <!--
@@ -21,6 +21,7 @@ Conferences to Attend
 
 Recent Invited Talks
 ------
+- [The 10th Conference on Spectral Methods and Their Applications](https://csiam.org.cn/1422/202604/2714.html), Shanghai, May 22--25, 2026
 - Workshop on Numerical Methods for Variational Problems and Optimal Control of Partial Differential Equations, Central South University, Changsha, March 8--10, 2026
 - [The 2025 Annual Meeting of the Hunan Mathematical Society](http://www.hnssxxh.org.cn/?p=740), Xiangtan, Hunan Province, China, December 5 -- 7, 2025 (Invited Talk)
 - [The 23rd Annual Conference of China Society for Industrial and Applied Mathematics (CSIAM2025)](https://meeting.csiam.org.cn/#/2025/), Changsha, China, October 23 -- 26, 2025 (Minisymposium Talk)
