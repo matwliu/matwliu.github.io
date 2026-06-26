@@ -11,7 +11,9 @@ Conferences to Attend
 ------
 
 * **Invited Minisymposium Speaker**, [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155))
-* 2026 National Quantum Frontier Academic Symposium, Chengdu, July 24 -- 26, 2026
+* [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/oJ4LqBSmzQo-_ISadSTUWw), Chengdu, July 24 -- 26, 2026
+* [The 24th Annual Meeting of China Society for lndustrial and Applied Mathematics (CSIAM2026)](https://meeting.csiam.org.cn/#/2026/), Lanzhou,
+October 8--11, 2026
 
 
 
