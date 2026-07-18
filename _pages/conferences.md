@@ -12,7 +12,7 @@ Conferences to Attend
 
 * [The 24th Annual Meeting of China Society for lndustrial and Applied Mathematics (CSIAM2026)](https://meeting.csiam.org.cn/#/2026/), Lanzhou,
 October 8--11, 2026
-* [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/oJ4LqBSmzQo-_ISadSTUWw), Chengdu, July 24 -- 26, 2026
+* [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/jd6VpdSZyET1FAjuR7s2SQ), Chengdu, July 24 -- 26, 2026
 * [Workshop on Isogeometric Analysis and Finite Element Methods](https://tianyuanmc.jlu.edu.cn/index.htm), Jilin University, Changchun, July 23 -- 25, 2026
 
 
