@@ -10,10 +10,10 @@ author_profile: true
 Conferences to Attend
 ------
 
-* **Invited Minisymposium Speaker**, [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155))
-* [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/oJ4LqBSmzQo-_ISadSTUWw), Chengdu, July 24 -- 26, 2026
 * [The 24th Annual Meeting of China Society for lndustrial and Applied Mathematics (CSIAM2026)](https://meeting.csiam.org.cn/#/2026/), Lanzhou,
 October 8--11, 2026
+* [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/oJ4LqBSmzQo-_ISadSTUWw), Chengdu, July 24 -- 26, 2026
+* [Workshop on Isogeometric Analysis and Finite Element Methods](https://tianyuanmc.jlu.edu.cn/index.htm), Jilin University, Changchun, July 23 -- 25, 2026
 
 
 
@@ -24,6 +24,8 @@ October 8--11, 2026
 
 Recent Invited Talks
 ------
+- [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026
+<!-- ([Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155)) -->
 - The 3rd "Xiangjiang Forum on Computational and Applied Mathematics", Hunan Normal University, Changsha, June 12 -- 14, 2026
 - [The 10th Conference on Spectral Methods and Their Applications](https://csiam.org.cn/1422/202604/2714.html), Shanghai, May 22--25, 2026
 - Workshop on Numerical Methods for Variational Problems and Optimal Control of Partial Differential Equations, Central South University, Changsha, March 8--10, 2026
