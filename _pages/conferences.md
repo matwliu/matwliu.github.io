@@ -10,6 +10,7 @@ author_profile: true
 Conferences to Attend
 ------
 
+* [第五届计算能源科学国际研讨会](https://mp.weixin.qq.com/s/JnaYozcMSiXxqCSujdO36w), 厦门, 2026年10月30日至11月2日
 * [The 24th Annual Meeting of China Society for lndustrial and Applied Mathematics (CSIAM2026)](https://meeting.csiam.org.cn/#/2026/), Lanzhou,
 October 8--11, 2026
 
