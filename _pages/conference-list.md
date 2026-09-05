@@ -26,7 +26,7 @@ Conferences Attended
 
 * **2025--present:**
   - [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026
-    - **Invited Minisymposium Speaker**, [Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155)
+    - **Invited Minisymposium Speaker**, [Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155) [[webpage](https://lmrs-num.math.cnrs.fr/Workshop_2026_AIMS.html)] [[slides](https://lmrs-num.math.cnrs.fr/pdfs/AIMS_2026/c09_Wei_Liu.pdf)]
   - **Invited Speaker**, The 3rd "Xiangjiang Forum on Computational and Applied Mathematics", Hunan Normal University, Changsha, June 12 -- 14, 2026
   - **Minisymposium Speaker**, [The 10th Conference on Spectral Methods and Their Applications](https://csiam.org.cn/1422/202604/2714.html), Shanghai, May 22--25, 2026
   - Workshop on 2026 Scientific Computing and Its Applications, Sichuan University, Chengdu, April 24--26, 2026
