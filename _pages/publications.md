@@ -34,7 +34,6 @@ Preprints
 ======
 * [Analysis of gradient flow for computing defocusing action ground states of rotating nonlinear Schrödinger equations](https://arxiv.org/abs/2605.04485) (with Tingfeng Wang, Yongjun Yuan, and Xiaofei Zhao), submitted, [arXiv:2605.04485](https://arxiv.org/abs/2605.04485)
 * [Ground-state solution of quantum droplets in Bose-Bose mixtures](https://arxiv.org/abs/2604.00889) (with Limin Xu), submitted, [arXiv:2604.00889](https://arxiv.org/abs/2604.00889)
-* [Efficient Nehari manifold optimization algorithms for computing ground state solutions of nonlinear elliptic systems](https://arxiv.org/abs/2603.20859) (with Zhaoxing Chen, Ziqing Xie, and Wenfan Yi), submitted, [arXiv:2603.20859](https://arxiv.org/abs/2603.20859)
 * [Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schrödinger equation](https://arxiv.org/abs/2602.20820) (with Tingfeng Wang and Xiaofei Zhao), submitted, [arXiv:2602.20820](https://arxiv.org/abs/2602.20820)
 
 
@@ -43,8 +42,11 @@ Preprints
 ======  -->
 
 
-<!-- Accepted
-====== -->
+Accepted
+======
+* Zhaoxing Chen, **Wei Liu**, Ziqing Xie*, and Wenfan Yi,
+  Accelerated Nehari manifold optimization methods for computing ground state solutions of coupled elliptic systems,
+  Communications in Computational Physics, accepted, 2026 ([arXiv:2603.20859](https://arxiv.org/abs/2603.20859))
 
 
 Published
