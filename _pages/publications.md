@@ -46,7 +46,7 @@ Accepted
 ======
 * Zhaoxing Chen, **Wei Liu***, Ziqing Xie, and Wenfan Yi,
   Accelerated Nehari manifold optimization methods for computing ground state solutions of coupled elliptic systems,
-  Communications in Computational Physics, accepted, 2026 ([arXiv:2603.20859](https://arxiv.org/abs/2603.20859))
+  _**Communications in Computational Physics**_, accepted, Sep 2026 ([arXiv:2603.20859](https://arxiv.org/abs/2603.20859))
 
 
 Published
