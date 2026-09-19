@@ -50,6 +50,8 @@ Recent Talks
 Conference/Workshop Organization
 ------
 
+- **Minisymposium Co-organizer** (with [Prof Guozhi Dong](https://faculty.csu.edu.cn/dongguozhi/en)), **TM35：变分问题的计算建模、算法及应用**, [The 24th Annual Meeting of China Society for lndustrial and Applied Mathematics (CSIAM2026)](https://meeting.csiam.org.cn/#/2026/), Lanzhou,
+October 8--11, 2026
 - **Co-organizer** (with [Prof Weizhu Bao](https://blog.nus.edu.sg/matbwz/)), [Workshop on Modeling and Simulation for Materials Science](https://sites.google.com/view/workshop-8-jun-2023-nus), National University of Singapore, Singapore, June 8, 2023
 
 
