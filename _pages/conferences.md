@@ -23,6 +23,7 @@ October 8--11, 2026
 
 Recent Talks
 ------
+- [Peking University Chongqing Research Institute of Big Data](https://cqbdri.pku.edu.cn/), Chongqing, September 16, 2026
 - [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/jd6VpdSZyET1FAjuR7s2SQ), Chengdu, July 24 -- 26, 2026
 - [Workshop on Isogeometric Analysis and Finite Element Methods](https://tianyuanmc.jlu.edu.cn/index.htm), Jilin University, Changchun, July 23 -- 25, 2026
 - [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026 [[webpage](https://lmrs-num.math.cnrs.fr/Workshop_2026_AIMS.html)] [[slides](https://lmrs-num.math.cnrs.fr/pdfs/AIMS_2026/c09_Wei_Liu.pdf)]
