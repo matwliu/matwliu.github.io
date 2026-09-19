@@ -25,6 +25,9 @@ Conferences Attended
 
 
 * **2025--present:**
+  - **Invited Academic Presentation**, [Peking University Chongqing Research Institute of Big Data](https://cqbdri.pku.edu.cn/), Chongqing, September 16, 2026
+  - **Minisymposium Speaker**, [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/jd6VpdSZyET1FAjuR7s2SQ), Chengdu, July 24 -- 26, 2026
+  - **Invited Speaker**, [Workshop on Isogeometric Analysis and Finite Element Methods](https://tianyuanmc.jlu.edu.cn/index.htm), Jilin University, Changchun, July 23 -- 25, 2026
   - [The 15th AIMS Conference at Athens](https://aimsconference.org/conferences/2026/index.html), Greece, July 6 -- 10, 2026
     - **Invited Minisymposium Speaker**, [Special Session 155: Advances in mathematical modelling and numerical simulation of superfluids](https://aimsconference.org/AIMS-Conference/conf-reg2026/ss/changeApp12.php?ssid=155) [[webpage](https://lmrs-num.math.cnrs.fr/Workshop_2026_AIMS.html)] [[slides](https://lmrs-num.math.cnrs.fr/pdfs/AIMS_2026/c09_Wei_Liu.pdf)]
   - **Invited Speaker**, The 3rd "Xiangjiang Forum on Computational and Applied Mathematics", Hunan Normal University, Changsha, June 12 -- 14, 2026
