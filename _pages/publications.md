@@ -32,7 +32,7 @@ author_profile: true
  
 Preprints
 ======
-* Computing excited states of dipolar Bose--Einstein condensates by constrained gentlest ascent dynamics (with Fu Zheng and Xu Qian), submitted
+* [Computing excited states of dipolar Bose--Einstein condensates by constrained gentlest ascent dynamics](https://arxiv.org/abs/2610.27878) (with Fu Zheng and Xu Qian), submitted, [	arXiv:2610.27878](https://arxiv.org/abs/2610.27878)
 * [Second-order flows for approaching stationary points via the SAV-E approach](https://arxiv.org/abs/2610.19884) (with Haifan Chen, Ziqing Xie, and Yifang Yuan), submitted, [arXiv:2610.19884](https://arxiv.org/abs/2610.19884)
 * [Analysis of gradient flow for computing defocusing action ground states of rotating nonlinear Schrödinger equations](https://arxiv.org/abs/2605.04485) (with Tingfeng Wang, Yongjun Yuan, and Xiaofei Zhao), submitted, [arXiv:2605.04485](https://arxiv.org/abs/2605.04485)
 * [Ground-state solution of quantum droplets in Bose-Bose mixtures](https://arxiv.org/abs/2604.00889) (with Limin Xu), submitted, [arXiv:2604.00889](https://arxiv.org/abs/2604.00889)
