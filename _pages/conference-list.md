@@ -25,6 +25,14 @@ Conferences Attended
 
 
 * **2025--present:**
+  - **Plenary Speaker**, 2026年湖南省计算数学应用软件学会学术年会, 娄底, 2026年11月13日--15日, [[News](https://www.huhst.edu.cn/info/1291/189305.htm)]
+  - **Invited Academic Presentation**, School of Mathematics and Statistics, Guangxi Normal University, Guilin, November 7, 2026
+  - **Invited Academic Presentation**, School of Mathematics, Guangxi University, Nanning, November 6, 2026 [[Abstract](https://gxamc.gxu.edu.cn/info/1009/1632.htm)]
+  - **Minisymposium Speaker** (Session 15: 复杂数学物理模型的高效高精度数值方法), [The 5th International Symposium on Computational Energy Science (COMPES 2026)](https://mp.weixin.qq.com/s/gVqQyGHPl94O0uYmbFgJsA), Xiamen, Oetober 30 -- November 2, 2026
+  - 2026春城计算数学青年论坛, 昆明, 2026年10月30日--11月2日
+  - [The 24th Annual Meeting of China Society for lndustrial and Applied Mathematics (CSIAM2026)](https://meeting.csiam.org.cn/#/2026/), Lanzhou,
+October 8--11, 2026
+    - **Minisymposium Co-organizer** (with [Prof Guozhi Dong](https://faculty.csu.edu.cn/dongguozhi/en)), TM35：变分问题的计算建模、算法及应用
   - **Invited Academic Presentation**, [Peking University Chongqing Research Institute of Big Data](https://cqbdri.pku.edu.cn/), Chongqing, September 16, 2026
   - **Minisymposium Speaker**, [2026 National Quantum Frontier Academic Symposium](https://mp.weixin.qq.com/s/jd6VpdSZyET1FAjuR7s2SQ), Chengdu, July 24 -- 26, 2026
   - **Invited Speaker**, [Workshop on Isogeometric Analysis and Finite Element Methods](https://tianyuanmc.jlu.edu.cn/index.htm), Jilin University, Changchun, July 23 -- 25, 2026
